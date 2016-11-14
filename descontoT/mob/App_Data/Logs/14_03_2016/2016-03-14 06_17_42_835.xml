@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?><Exception xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Message>SOAP security negotiation with 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' for target 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' failed. See inner exception for more details.</Message><Url>https://doseperfeita.com/v3/mob/preorder.aspx</Url><Path>/v3/mob/preorder.aspx</Path><IpAddress>191.34.48.50</IpAddress><UserAgent>Mozilla/5.0 (Linux; Android 4.4.4; XT1022 Build/KXC21.5-44) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/64.0.0.52.76;]</UserAgent><Date>2016-03-14T18:17:42.8356695-04:00</Date><RequestParameters>__VIEWSTATE=
+/wEPDwUKLTk0NzA4Mjg0MA9kFgICAQ9kFgQCFQ8QDxYGHg1EYXRhVGV4dEZpZWxkBQVTdGF0ZR4ORGF0YVZhbHVlRmllbGQFB3N0YXRlSUQeC18hRGF0YUJvdW5kZ2QQFYoBBkVzdGFkbwRBY3JlB0FsYWdvYXMGQW1hcMOhCEFtYXpvbmFzBUJhaGlhBkNlYXLDoRBEaXN0cml0byBGZWRlcmFsDkVzcGlyaXRvIFNhbnRvBkdvacOhcwlNYXJhbmjDo28LTWF0byBHcm9zc28STWF0byBHcm9zc28gZG8gU3VsDE1pbmFzIEdlcmFpcwVQYXLDoQhQYXJhw61iYQdQYXJhbsOhClBlcm5hbWJ1Y28GUGlhdcOtDlJpbyBkZSBKYW5laXJvE1JpbyBHcmFuZGUgZG8gTm9ydGURUmlvIEdyYW5kZSBkbyBTdWwJUm9uZMO0bmlhB1JvcmFpbWEOU2FudGEgQ2F0YXJpbmEKU8OjbyBQYXVsbwdTZXJnaXBlCVRvY2FudGlucylBaXNlbiBkZWwgR2VuZXJhbCBDYXJsb3MgSWJhbmV6IGRlbCBDYW1wbwtBbnRvZmFnYXN0YQlBcmF1Y2FuaWESQXJpY2EgeSBQYXJpbmFjb3RhB0F0YWNhbWEHQmlvLUJpbwhDb3F1aW1ibyVMaWJlcnRhZG9yIEdlbmVyYWwgQmVybmFyZG8gTydIaWdnaW5zCUxvcyBMYWdvcwlMb3MgTGFnb3MITG9zIFJpb3MkTWFnYWxsYW5lcyB5IGRlIGxhIEFudGFydGljYSBDaGlsZW5hBU1hdWxlFFJlZ2lvbiBNZXRyb3BvbGl0YW5hCFRhcmFwYWNhCFRhcmFwYWNhClZhbHBhcmFpc28IQW1hem9uYXMJQW50aW9xdWlhBkFyYXVjYQlBdGxhbnRpY28HQm9saXZhchJCb2xpdmFyIERlcGFydG1lbnQGQm95YWNhEUJveWFjYSBEZXBhcnRtZW50BkNhbGRhcxFDYWxkYXMgRGVwYXJ0bWVudAdDYXF1ZXRhCENhc2FuYXJlBUNhdWNhBUNlc2FyBUNob2NvB0NvcmRvYmEMQ3VuZGluYW1hcmNhEURpc3RyaXRvIEVzcGVjaWFsB0d1YWluaWEIR3VhdmlhcmUFSHVpbGEKTGEgR3VhamlyYQlNYWdkYWxlbmEUTWFnZGFsZW5hIERlcGFydG1lbnQETWV0YQZOYXJpbm8STm9ydGUgZGUgU2FudGFuZGVyCFB1dHVtYXlvB1F1aW5kaW8JUmlzYXJhbGRhGFNhbiBBbmRyZXMgeSBQcm92aWRlbmNpYQlTYW50YW5kZXIFU3VjcmUGVG9saW1hD1ZhbGxlIGRlbCBDYXVjYQZWYXVwZXMHVmljaGFkYQ5BZ3Vhc2NhbGllbnRlcw9CYWphIENhbGlmb3JuaWETQmFqYSBDYWxpZm9ybmlhIFN1cghDYW1wZWNoZQdDaGlhcGFzCUNoaWh1YWh1YRRDb2FodWlsYSBkZSBaYXJhZ296YQZDb2xpbWEQRGlzdHJpdG8gRmVkZXJhbAdEdXJhbmdvCkd1YW5hanVhdG8IR3VlcnJlcm8HSGlkYWxnbwdKYWxpc2NvBk1leGljbxNNaWNob2FjYW4gZGUgT2NhbXBvB01vcmVsb3MHTmF5YXJpdApOdWV2byBMZW9uBk9heGFjYQZQdWVibGEUUXVlcmV0YXJvIGRlIEFydGVhZ2EMUXVpbnRhbmEgUm9vD1NhbiBMdWlzIFBvdG9zaQdTaW5hbG9hBlNvbm9yYQdUYWJhc2NvClRhbWF1bGlwYXMIVGxheGNhbGEOVmVyYWNydXotTGxhdmUHWXVjYXRhbglaYWNhdGVjYXMMQnVlbm9zIEFpcmVzCUNhdGFtYXJjYQVDaGFjbwZDaHVidXQHQ29yZG9iYQpDb3JyaWVudGVzEERpc3RyaXRvIEZlZGVyYWwKRW50cmUgUmlvcwdGb3Jtb3NhBUp1anV5CExhIFBhbXBhCExhIFJpb2phB01lbmRvemEITWlzaW9uZXMHTmV1cXVlbglSaW8gTmVncm8FU2FsdGEIU2FuIEp1YW4IU2FuIEx1aXMKU2FudGEgQ3J1eghTYW50YSBGZRNTYW50aWFnbyBkZWwgRXN0ZXJvEFRpZXJyYSBkZWwgRnVlZ28HVHVjdW1hbhWKAQAFNDU4OTMFNDU4OTQFNDU4OTYFNDU4OTUFNDU4OTcFNDU4OTgFNDU4OTkFNDU5MDAFNDU5MDEFNDU5MDIFNDU5MDUFNDU5MDQFNDU5MDMFNDU5MDYFNDU5MDcFNDU5MTAFNDU5MDgFNDU5MDkFNDU5MTEFNDU5MTIFNDU5MTUFNDU5MTMFNDU5MTQFNDU5MTYFNDU5MTgFNDU5MTcFNDU5MTkFNTE2NDYFNTE2NDcFNTE2NDgFNTE2NjAFNTE2NDkFNTE2NTAFNTE2NTEFNTE2NTIFNTE2NTMFNTE2NTgFNTE2NjEFNTE2NTQFNTE2NTUFNTE2NTYFNTE2NTcFNTE2NTkFNTE2NDUFNTE2NjIFNTE2NjMFNTE2NjQFNTE2NjUFNTE2OTUFNTE2NjYFNTE2OTYFNTE2NjcFNTE2OTcFNTE2NjgFNTE2NjkFNTE2OTIFNTE2NzAFNTE2NzEFNTE2NzIFNTE2NzMFNTE2OTMFNTE2OTQFNTE2NzUFNTE2NzQFNTE2NzYFNTE2NzcFNTE2OTgFNTE2NzgFNTE2NzkFNTE2ODAFNTE2ODEFNTE2ODIFNTE2ODMFNTE2ODQFNTE2ODUFNTE2ODYFNTE2ODcFNTE2ODgFNTE2ODkFNTE2OTAFNTE2OTEFNTE2OTkFNTE3MDAFNTE3MDEFNTE3MDIFNTE3MDMFNTE3MDQFNTE3MDUFNTE3MDYFNTE3MDcFNTE3MDgFNTE3MDkFNTE3MTAFNTE3MTEFNTE3MTIFNTE3MTMFNTE3MTQFNTE3MTUFNTE3MTYFNTE3MTcFNTE3MTgFNTE3MTkFNTE3MjAFNTE3MjEFNTE3MjIFNTE3MjMFNTE3MjQFNTE3MjUFNTE3MjYFNTE3MjcFNTE3MjgFNTE3MjkFNTE3MzAFNTE2MjEFNTE2MjIFNTE2MjMFNTE2MjQFNTE2MjUFNTE2MjYFNTE2MjcFNTE2MjgFNTE2MjkFNTE2MzAFNTE2MzEFNTE2MzIFNTE2MzMFNTE2MzQFNTE2MzUFNTE2MzYFNTE2MzcFNTE2MzgFNTE2MzkFNTE2NDAFNTE2NDEFNTE2NDIFNTE2NDMFNTE2NDQUKwOKAWhnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZxYBZmQCGw8PZBYCHgdPbkNsaWNrBSFqYXZhc2NyaXB0OmRlcD10cnVlO3JldHVybiBhYjEoKTtkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQlzdWJtaXRCdG5sj4qm+p82Gxg2aK/UbSBiJAY7jx+aB/v7NZrTgp4PlQ==
+&amp;
+txtFirstName=
+amauri
+&amp;
+txtLastName=
+souza
+&amp;
+txtEmail=
+amaurisouza1972@gmail.com
+&amp;
+txtPhone=
+964014403
+&amp;
+txtZip=
+24110646
+&amp;
+txtAddress=
+Travessa Pastor Jos� de Melo
+&amp;
+txtNumero=
+117
+&amp;
+txtComplemento=
+
+&amp;
+txtArea=
+Engenhoca
+&amp;
+txtCity=
+Niter�i
+&amp;
+States=
+45911
+&amp;
+ibge=
+
+&amp;
+addressType=
+Travessa
+&amp;
+submitBtn.x=
+0
+&amp;
+submitBtn.y=
+0
+&amp;
+__VIEWSTATEGENERATOR=
+6680B0F3
+&amp;
+__EVENTVALIDATION=
+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
+&amp;
+ASP.NET_SessionId=
+eaa3kjmaaitxvsadcemo2ohe
+&amp;
+v=
+%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e191.34.48.50%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-14T18%3a04%3a15.8418734-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld+%2f%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+&amp;
+_ga=
+GA1.2.1764502252.1457992967
+&amp;
+_gat=
+1
+&amp;
+ALL_HTTP=
+HTTP_CACHE_CONTROL:max-age=0
+HTTP_CONNECTION:keep-alive
+HTTP_CONTENT_LENGTH:7539
+HTTP_CONTENT_TYPE:application/x-www-form-urlencoded
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip,deflate
+HTTP_ACCEPT_LANGUAGE:pt-BR,en-US;q=0.8
+HTTP_COOKIE:ASP.NET_SessionId=eaa3kjmaaitxvsadcemo2ohe; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e191.34.48.50%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-14T18%3a04%3a15.8418734-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld+%2f%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.1764502252.1457992967; _gat=1
+HTTP_HOST:doseperfeita.com
+HTTP_REFERER:https://doseperfeita.com/v3/mob/preorder.aspx
+HTTP_USER_AGENT:Mozilla/5.0 (Linux; Android 4.4.4; XT1022 Build/KXC21.5-44) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/64.0.0.52.76;]
+HTTP_ORIGIN:https://doseperfeita.com
+HTTP_X_REQUESTED_WITH:com.facebook.katana
+
+&amp;
+ALL_RAW=
+Cache-Control: max-age=0
+Connection: keep-alive
+Content-Length: 7539
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip,deflate
+Accept-Language: pt-BR,en-US;q=0.8
+Cookie: ASP.NET_SessionId=eaa3kjmaaitxvsadcemo2ohe; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e191.34.48.50%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-14T18%3a04%3a15.8418734-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld+%2f%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.1764502252.1457992967; _gat=1
+Host: doseperfeita.com
+Referer: https://doseperfeita.com/v3/mob/preorder.aspx
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.4; XT1022 Build/KXC21.5-44) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/64.0.0.52.76;]
+Origin: https://doseperfeita.com
+X-Requested-With: com.facebook.katana
+
+&amp;
+APPL_MD_PATH=
+/LM/W3SVC/1/ROOT/v3/mob
+&amp;
+APPL_PHYSICAL_PATH=
+C:\SITES\doseperfeita.com\v3\mob\
+&amp;
+AUTH_TYPE=
+
+&amp;
+AUTH_USER=
+
+&amp;
+AUTH_PASSWORD=
+
+&amp;
+LOGON_USER=
+
+&amp;
+REMOTE_USER=
+
+&amp;
+CERT_COOKIE=
+
+&amp;
+CERT_FLAGS=
+
+&amp;
+CERT_ISSUER=
+
+&amp;
+CERT_KEYSIZE=
+128
+&amp;
+CERT_SECRETKEYSIZE=
+2048
+&amp;
+CERT_SERIALNUMBER=
+
+&amp;
+CERT_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+CERT_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+CERT_SUBJECT=
+
+&amp;
+CONTENT_LENGTH=
+7539
+&amp;
+CONTENT_TYPE=
+application/x-www-form-urlencoded
+&amp;
+GATEWAY_INTERFACE=
+CGI/1.1
+&amp;
+HTTPS=
+on
+&amp;
+HTTPS_KEYSIZE=
+128
+&amp;
+HTTPS_SECRETKEYSIZE=
+2048
+&amp;
+HTTPS_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+HTTPS_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+INSTANCE_ID=
+1
+&amp;
+INSTANCE_META_PATH=
+/LM/W3SVC/1
+&amp;
+LOCAL_ADDR=
+172.31.42.27
+&amp;
+PATH_INFO=
+/v3/mob/preorder.aspx
+&amp;
+PATH_TRANSLATED=
+C:\SITES\doseperfeita.com\v3\mob\preorder.aspx
+&amp;
+QUERY_STRING=
+
+&amp;
+REMOTE_ADDR=
+191.34.48.50
+&amp;
+REMOTE_HOST=
+191.34.48.50
+&amp;
+REMOTE_PORT=
+58140
+&amp;
+REQUEST_METHOD=
+POST
+&amp;
+SCRIPT_NAME=
+/v3/mob/preorder.aspx
+&amp;
+SERVER_NAME=
+doseperfeita.com
+&amp;
+SERVER_PORT=
+443
+&amp;
+SERVER_PORT_SECURE=
+1
+&amp;
+SERVER_PROTOCOL=
+HTTP/1.1
+&amp;
+SERVER_SOFTWARE=
+Microsoft-IIS/8.0
+&amp;
+URL=
+/v3/mob/preorder.aspx
+&amp;
+HTTP_CACHE_CONTROL=
+max-age=0
+&amp;
+HTTP_CONNECTION=
+keep-alive
+&amp;
+HTTP_CONTENT_LENGTH=
+7539
+&amp;
+HTTP_CONTENT_TYPE=
+application/x-www-form-urlencoded
+&amp;
+HTTP_ACCEPT=
+text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+&amp;
+HTTP_ACCEPT_ENCODING=
+gzip,deflate
+&amp;
+HTTP_ACCEPT_LANGUAGE=
+pt-BR,en-US;q=0.8
+&amp;
+HTTP_COOKIE=
+ASP.NET_SessionId=eaa3kjmaaitxvsadcemo2ohe; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e191.34.48.50%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-14T18%3a04%3a15.8418734-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld+%2f%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.1764502252.1457992967; _gat=1
+&amp;
+HTTP_HOST=
+doseperfeita.com
+&amp;
+HTTP_REFERER=
+https://doseperfeita.com/v3/mob/preorder.aspx
+&amp;
+HTTP_USER_AGENT=
+Mozilla/5.0 (Linux; Android 4.4.4; XT1022 Build/KXC21.5-44) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/64.0.0.52.76;]
+&amp;
+HTTP_ORIGIN=
+https://doseperfeita.com
+&amp;
+HTTP_X_REQUESTED_WITH=
+com.facebook.katana
+&amp;
+</RequestParameters><RequestSession>cache_OrderPageActivity=
+dc37dc94-62fe-4df7-a3fe-8d58304b4e10
+&amp;
+objvisitor=
+&lt;V xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CSRID&gt;0&lt;/CSRID&gt;
+  &lt;pid&gt;100&lt;/pid&gt;
+  &lt;ip&gt;191.34.48.50&lt;/ip&gt;
+  &lt;mid&gt;0&lt;/mid&gt;
+  &lt;det&gt;0001-01-01T00:00:00&lt;/det&gt;
+  &lt;dec&gt;0&lt;/dec&gt;
+  &lt;cntFOA&gt;0&lt;/cntFOA&gt;
+  &lt;vid&gt;0&lt;/vid&gt;
+  &lt;sn /&gt;
+  &lt;s&gt;45911&lt;/s&gt;
+  &lt;bs /&gt;
+  &lt;co&gt;BR&lt;/co&gt;
+  &lt;bf /&gt;
+  &lt;bl /&gt;
+  &lt;bla /&gt;
+  &lt;bla1 /&gt;
+  &lt;blc /&gt;
+  &lt;bls&gt;0&lt;/bls&gt;
+  &lt;blz /&gt;
+  &lt;c1&gt;0&lt;/c1&gt;
+  &lt;c2&gt;0&lt;/c2&gt;
+  &lt;c3&gt;0&lt;/c3&gt;
+  &lt;c4&gt;0&lt;/c4&gt;
+  &lt;cID&gt;31164&lt;/cID&gt;
+  &lt;cc&gt;Google-DP_go1m&lt;/cc&gt;
+  &lt;stID&gt;0&lt;/stID&gt;
+  &lt;e1 /&gt;
+  &lt;m1 /&gt;
+  &lt;m2 /&gt;
+  &lt;m3 /&gt;
+  &lt;t&gt;0&lt;/t&gt;
+  &lt;cuid&gt;0&lt;/cuid&gt;
+  &lt;LeadType /&gt;
+  &lt;lvd&gt;2016-03-14T18:04:15.8418734-04:00&lt;/lvd&gt;
+  &lt;sls&gt;false&lt;/sls&gt;
+  &lt;ocfld /&gt;
+  &lt;cfld&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Numero&lt;/FieldName&gt;
+      &lt;FieldValue&gt;117&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Complemento&lt;/FieldName&gt;
+      &lt;FieldValue /&gt;
+    &lt;/CustomField&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Bairro&lt;/FieldName&gt;
+      &lt;FieldValue&gt;Engenhoca&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;IBGE&lt;/FieldName&gt;
+      &lt;FieldValue /&gt;
+    &lt;/CustomField&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;AddressType&lt;/FieldName&gt;
+      &lt;FieldValue&gt;Travessa&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+  &lt;/cfld&gt;
+  &lt;so /&gt;
+  &lt;iccid&gt;0&lt;/iccid&gt;
+  &lt;f&gt;amauri&lt;/f&gt;
+  &lt;l&gt;souza&lt;/l&gt;
+  &lt;a1&gt;Travessa Pastor Jos� de Melo&lt;/a1&gt;
+  &lt;a2 /&gt;
+  &lt;c&gt;Niter�i&lt;/c&gt;
+  &lt;si&gt;0&lt;/si&gt;
+  &lt;z&gt;24110646&lt;/z&gt;
+  &lt;ci&gt;0&lt;/ci&gt;
+  &lt;p&gt;964014403&lt;/p&gt;
+  &lt;p2 /&gt;
+  &lt;e&gt;amaurisouza1972@gmail.com&lt;/e&gt;
+  &lt;RefCustomerID&gt;0&lt;/RefCustomerID&gt;
+  &lt;su&gt;http://doseperfeita.com/v3/mob/&lt;/su&gt;
+&lt;/V&gt;
+&amp;
+StartPagePixel21153=
+True
+&amp;
+WLType=
+i
+&amp;
+OrderPagePixel21153=
+True
+&amp;
+SessionID=
+480ad2e5-e0a6-4c42-96f5-e6bc60bd7d60
+&amp;
+siteURL=
+http://doseperfeita.com/v3/mob/
+&amp;
+</RequestSession><Error><TimeStamp>2016-03-14T18:17:42.8356695-04:00</TimeStamp><Message>SOAP security negotiation with 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' for target 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' failed. See inner exception for more details.</Message><StackTrace>
+Server stack trace: 
+   at System.ServiceModel.Security.IssuanceTokenProviderBase`1.DoNegotiation(TimeSpan timeout)
+   at System.ServiceModel.Security.SspiNegotiationTokenProvider.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Security.TlsnegoTokenProvider.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Security.SymmetricSecurityProtocol.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.ClientSecurityChannel`1.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.DoOperation(SecuritySessionOperation operation, EndpointAddress target, Uri via, SecurityToken currentToken, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.GetTokenCore(TimeSpan timeout)
+   at System.IdentityModel.Selectors.SecurityTokenProvider.GetToken(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionClientSettings`1.ClientSecuritySessionChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.CallOnceManager.CallOnce(TimeSpan timeout, CallOnceManager cascade)
+   at System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at uCRMLandingPage.wcf.IgatewayService.SetResourcesCulture(String cultureName)
+   at uCRMLandingPage.ServiceImplementation.GatewayService..ctor(HttpContext httpContext, String siteURL)
+   at uCRMLandingPage.ServiceImplementation.GatewayService.NewConnection(String siteURL, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Templates.GenericTemplate.SaveLead(Boolean CreateLeadToken, Boolean DoNotSaveEmptyLeads)</StackTrace></Error></Exception>

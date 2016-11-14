@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?><Exception xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Message>SOAP security negotiation with 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' for target 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' failed. See inner exception for more details.</Message><Url>https://doseperfeita.com/v3/mob/default.aspx?caid=32323&amp;caCode=DP-mobile&amp;nopop=0&amp;stid=449&amp;cid2=21153</Url><Path>/v3/mob/default.aspx</Path><IpAddress>200.129.245.195</IpAddress><UserAgent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</UserAgent><Date>2016-03-11T15:12:30.4975956-05:00</Date><RequestParameters>caid=
+32323
+&amp;
+caCode=
+DP-mobile
+&amp;
+nopop=
+0
+&amp;
+stid=
+449
+&amp;
+cid2=
+21153
+&amp;
+ASP.NET_SessionId=
+m2tbrox3j1dnbt4md4vfbujl
+&amp;
+v=
+%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e200.129.245.195%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e21153%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e32323%3c%2fcID%3e++%3ccc%3eDP-mobile%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e0001-01-01T00%3a00%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fpaid.outbrain.com%2fnetwork%2fredir%3fp%3dMpUo7x52vWlS8wBncEg1vUC2UAoV21cy0De5F8bd3JfygWlfFClVB7g0NjO1tdTmNAJ8M0RnUZyd0oBYsXI8PFwClq4lsQEeySy9v4UvA_PPJthYP5yLoCnks0v9Onxt6Ihb-g7hadtEGLSEMdUq5N0FiCrFid-SUvcardRUEgb2GwpaaYQjOGwkvxyEcHivu6K4bkSexU-hBX_ixyp-_x8U7aDnOczn2KZQGmQDP7stnmc_sg6ubBaA7nmH5KS1yoThp6SaHg9lp7He-9W2gLNjXgJ3r7vlpvUmIswM3fZhnqFin_Cnc9Ypa1GMgQFX743Q25LV_T_tw1xM8eNuB9uGBe29w1gwiKQ2dBh7efKFIiEgU8ip3xh5S0Sw_yuQu-kozaJPEAfPBpfbi29KjEm8YCeODclry_TqFytDJZorGcQ2vQ53vfkiaxY5s1n5hkjFDVhZKQpuoif62zkTLy32iRqTdHW7o5XclYFzMO3h_TikottfKrdfevS6JoisOFAi6IjaqbNdufu7-NaSKmD5oI7v22VaepfDKaJD--d4IeFaxRk9vMWkajO8kaZKd7SvSevjXF1o9c8UIaAuUtBiJH_YWJPXq14td_nFUhnuzHgDAjD0cvsAnIBrqzUe%26amp%3bc%3de23b2dab%26amp%3bv%3d3%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+&amp;
+ALL_HTTP=
+HTTP_CONNECTION:keep-alive
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip, deflate, br
+HTTP_ACCEPT_LANGUAGE:pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_HOST:doseperfeita.com
+HTTP_REFERER:http://paid.outbrain.com/network/redir?p=MpUo7x52vWlS8wBncEg1vUC2UAoV21cy0De5F8bd3JfygWlfFClVB7g0NjO1tdTmNAJ8M0RnUZyd0oBYsXI8PFwClq4lsQEeySy9v4UvA_PPJthYP5yLoCnks0v9Onxt6Ihb-g7hadtEGLSEMdUq5N0FiCrFid-SUvcardRUEgb2GwpaaYQjOGwkvxyEcHivu6K4bkSexU-hBX_ixyp-_x8U7aDnOczn2KZQGmQDP7stnmc_sg6ubBaA7nmH5KS1yoThp6SaHg9lp7He-9W2gLNjXgJ3r7vlpvUmIswM3fZhnqFin_Cnc9Ypa1GMgQFX743Q25LV_T_tw1xM8eNuB9uGBe29w1gwiKQ2dBh7efKFIiEgU8ip3xh5S0Sw_yuQu-kozaJPEAfPBpfbi29KjEm8YCeODclry_TqFytDJZorGcQ2vQ53vfkiaxY5s1n5hkjFDVhZKQpuoif62zkTLy32iRqTdHW7o5XclYFzMO3h_TikottfKrdfevS6JoisOFAi6IjaqbNdufu7-NaSKmD5oI7v22VaepfDKaJD--d4IeFaxRk9vMWkajO8kaZKd7SvSevjXF1o9c8UIaAuUtBiJH_YWJPXq14td_nFUhnuzHgDAjD0cvsAnIBrqzUe&amp;c=e23b2dab&amp;v=3
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+
+&amp;
+ALL_RAW=
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Host: doseperfeita.com
+Referer: http://paid.outbrain.com/network/redir?p=MpUo7x52vWlS8wBncEg1vUC2UAoV21cy0De5F8bd3JfygWlfFClVB7g0NjO1tdTmNAJ8M0RnUZyd0oBYsXI8PFwClq4lsQEeySy9v4UvA_PPJthYP5yLoCnks0v9Onxt6Ihb-g7hadtEGLSEMdUq5N0FiCrFid-SUvcardRUEgb2GwpaaYQjOGwkvxyEcHivu6K4bkSexU-hBX_ixyp-_x8U7aDnOczn2KZQGmQDP7stnmc_sg6ubBaA7nmH5KS1yoThp6SaHg9lp7He-9W2gLNjXgJ3r7vlpvUmIswM3fZhnqFin_Cnc9Ypa1GMgQFX743Q25LV_T_tw1xM8eNuB9uGBe29w1gwiKQ2dBh7efKFIiEgU8ip3xh5S0Sw_yuQu-kozaJPEAfPBpfbi29KjEm8YCeODclry_TqFytDJZorGcQ2vQ53vfkiaxY5s1n5hkjFDVhZKQpuoif62zkTLy32iRqTdHW7o5XclYFzMO3h_TikottfKrdfevS6JoisOFAi6IjaqbNdufu7-NaSKmD5oI7v22VaepfDKaJD--d4IeFaxRk9vMWkajO8kaZKd7SvSevjXF1o9c8UIaAuUtBiJH_YWJPXq14td_nFUhnuzHgDAjD0cvsAnIBrqzUe&amp;c=e23b2dab&amp;v=3
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+
+&amp;
+APPL_MD_PATH=
+/LM/W3SVC/1/ROOT/v3/mob
+&amp;
+APPL_PHYSICAL_PATH=
+C:\SITES\doseperfeita.com\v3\mob\
+&amp;
+AUTH_TYPE=
+
+&amp;
+AUTH_USER=
+
+&amp;
+AUTH_PASSWORD=
+
+&amp;
+LOGON_USER=
+
+&amp;
+REMOTE_USER=
+
+&amp;
+CERT_COOKIE=
+
+&amp;
+CERT_FLAGS=
+
+&amp;
+CERT_ISSUER=
+
+&amp;
+CERT_KEYSIZE=
+128
+&amp;
+CERT_SECRETKEYSIZE=
+2048
+&amp;
+CERT_SERIALNUMBER=
+
+&amp;
+CERT_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+CERT_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+CERT_SUBJECT=
+
+&amp;
+CONTENT_LENGTH=
+0
+&amp;
+CONTENT_TYPE=
+
+&amp;
+GATEWAY_INTERFACE=
+CGI/1.1
+&amp;
+HTTPS=
+on
+&amp;
+HTTPS_KEYSIZE=
+128
+&amp;
+HTTPS_SECRETKEYSIZE=
+2048
+&amp;
+HTTPS_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+HTTPS_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+INSTANCE_ID=
+1
+&amp;
+INSTANCE_META_PATH=
+/LM/W3SVC/1
+&amp;
+LOCAL_ADDR=
+172.31.42.27
+&amp;
+PATH_INFO=
+/v3/mob/default.aspx
+&amp;
+PATH_TRANSLATED=
+C:\SITES\doseperfeita.com\v3\mob\default.aspx
+&amp;
+QUERY_STRING=
+caid=32323&amp;caCode=DP-mobile&amp;nopop=0&amp;stid=449&amp;cid2=21153
+&amp;
+REMOTE_ADDR=
+200.129.245.195
+&amp;
+REMOTE_HOST=
+200.129.245.195
+&amp;
+REMOTE_PORT=
+39332
+&amp;
+REQUEST_METHOD=
+GET
+&amp;
+SCRIPT_NAME=
+/v3/mob/default.aspx
+&amp;
+SERVER_NAME=
+doseperfeita.com
+&amp;
+SERVER_PORT=
+443
+&amp;
+SERVER_PORT_SECURE=
+1
+&amp;
+SERVER_PROTOCOL=
+HTTP/1.1
+&amp;
+SERVER_SOFTWARE=
+Microsoft-IIS/8.0
+&amp;
+URL=
+/v3/mob/default.aspx
+&amp;
+HTTP_CONNECTION=
+keep-alive
+&amp;
+HTTP_ACCEPT=
+text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+&amp;
+HTTP_ACCEPT_ENCODING=
+gzip, deflate, br
+&amp;
+HTTP_ACCEPT_LANGUAGE=
+pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+&amp;
+HTTP_HOST=
+doseperfeita.com
+&amp;
+HTTP_REFERER=
+http://paid.outbrain.com/network/redir?p=MpUo7x52vWlS8wBncEg1vUC2UAoV21cy0De5F8bd3JfygWlfFClVB7g0NjO1tdTmNAJ8M0RnUZyd0oBYsXI8PFwClq4lsQEeySy9v4UvA_PPJthYP5yLoCnks0v9Onxt6Ihb-g7hadtEGLSEMdUq5N0FiCrFid-SUvcardRUEgb2GwpaaYQjOGwkvxyEcHivu6K4bkSexU-hBX_ixyp-_x8U7aDnOczn2KZQGmQDP7stnmc_sg6ubBaA7nmH5KS1yoThp6SaHg9lp7He-9W2gLNjXgJ3r7vlpvUmIswM3fZhnqFin_Cnc9Ypa1GMgQFX743Q25LV_T_tw1xM8eNuB9uGBe29w1gwiKQ2dBh7efKFIiEgU8ip3xh5S0Sw_yuQu-kozaJPEAfPBpfbi29KjEm8YCeODclry_TqFytDJZorGcQ2vQ53vfkiaxY5s1n5hkjFDVhZKQpuoif62zkTLy32iRqTdHW7o5XclYFzMO3h_TikottfKrdfevS6JoisOFAi6IjaqbNdufu7-NaSKmD5oI7v22VaepfDKaJD--d4IeFaxRk9vMWkajO8kaZKd7SvSevjXF1o9c8UIaAuUtBiJH_YWJPXq14td_nFUhnuzHgDAjD0cvsAnIBrqzUe&amp;c=e23b2dab&amp;v=3
+&amp;
+HTTP_USER_AGENT=
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0
+&amp;
+</RequestParameters><RequestSession>cache_OrderPageActivity=
+3bdeeb7b-9a3a-4b0a-9dc0-f11ecd48890f
+&amp;
+objvisitor=
+&lt;V xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CSRID&gt;0&lt;/CSRID&gt;
+  &lt;pid&gt;100&lt;/pid&gt;
+  &lt;ip&gt;200.129.245.195&lt;/ip&gt;
+  &lt;mid&gt;0&lt;/mid&gt;
+  &lt;det&gt;0001-01-01T00:00:00&lt;/det&gt;
+  &lt;dec&gt;0&lt;/dec&gt;
+  &lt;cntFOA&gt;0&lt;/cntFOA&gt;
+  &lt;vid&gt;0&lt;/vid&gt;
+  &lt;sn /&gt;
+  &lt;s /&gt;
+  &lt;bs /&gt;
+  &lt;co /&gt;
+  &lt;bf /&gt;
+  &lt;bl /&gt;
+  &lt;bla /&gt;
+  &lt;bla1 /&gt;
+  &lt;blc /&gt;
+  &lt;bls&gt;0&lt;/bls&gt;
+  &lt;blz /&gt;
+  &lt;c1&gt;0&lt;/c1&gt;
+  &lt;c2&gt;21153&lt;/c2&gt;
+  &lt;c3&gt;0&lt;/c3&gt;
+  &lt;c4&gt;0&lt;/c4&gt;
+  &lt;cID&gt;32323&lt;/cID&gt;
+  &lt;cc&gt;DP-mobile&lt;/cc&gt;
+  &lt;stID&gt;0&lt;/stID&gt;
+  &lt;e1 /&gt;
+  &lt;m1 /&gt;
+  &lt;m2 /&gt;
+  &lt;m3 /&gt;
+  &lt;t&gt;0&lt;/t&gt;
+  &lt;cuid&gt;0&lt;/cuid&gt;
+  &lt;LeadType /&gt;
+  &lt;lvd&gt;0001-01-01T00:00:00&lt;/lvd&gt;
+  &lt;sls&gt;false&lt;/sls&gt;
+  &lt;ocfld /&gt;
+  &lt;cfld&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Referrer&lt;/FieldName&gt;
+      &lt;FieldValue&gt;http://paid.outbrain.com/network/redir?p=MpUo7x52vWlS8wBncEg1vUC2UAoV21cy0De5F8bd3JfygWlfFClVB7g0NjO1tdTmNAJ8M0RnUZyd0oBYsXI8PFwClq4lsQEeySy9v4UvA_PPJthYP5yLoCnks0v9Onxt6Ihb-g7hadtEGLSEMdUq5N0FiCrFid-SUvcardRUEgb2GwpaaYQjOGwkvxyEcHivu6K4bkSexU-hBX_ixyp-_x8U7aDnOczn2KZQGmQDP7stnmc_sg6ubBaA7nmH5KS1yoThp6SaHg9lp7He-9W2gLNjXgJ3r7vlpvUmIswM3fZhnqFin_Cnc9Ypa1GMgQFX743Q25LV_T_tw1xM8eNuB9uGBe29w1gwiKQ2dBh7efKFIiEgU8ip3xh5S0Sw_yuQu-kozaJPEAfPBpfbi29KjEm8YCeODclry_TqFytDJZorGcQ2vQ53vfkiaxY5s1n5hkjFDVhZKQpuoif62zkTLy32iRqTdHW7o5XclYFzMO3h_TikottfKrdfevS6JoisOFAi6IjaqbNdufu7-NaSKmD5oI7v22VaepfDKaJD--d4IeFaxRk9vMWkajO8kaZKd7SvSevjXF1o9c8UIaAuUtBiJH_YWJPXq14td_nFUhnuzHgDAjD0cvsAnIBrqzUe&amp;amp;c=e23b2dab&amp;amp;v=3&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+  &lt;/cfld&gt;
+  &lt;so /&gt;
+  &lt;iccid&gt;0&lt;/iccid&gt;
+  &lt;f /&gt;
+  &lt;l /&gt;
+  &lt;a1 /&gt;
+  &lt;a2 /&gt;
+  &lt;c /&gt;
+  &lt;si&gt;0&lt;/si&gt;
+  &lt;z /&gt;
+  &lt;ci&gt;0&lt;/ci&gt;
+  &lt;p /&gt;
+  &lt;p2 /&gt;
+  &lt;e /&gt;
+  &lt;RefCustomerID&gt;0&lt;/RefCustomerID&gt;
+  &lt;su&gt;http://doseperfeita.com/v3/mob/&lt;/su&gt;
+&lt;/V&gt;
+&amp;
+siteURL=
+http://doseperfeita.com/v3/mob/
+&amp;
+</RequestSession><Error><TimeStamp>2016-03-11T15:12:30.4975956-05:00</TimeStamp><Message>SOAP security negotiation with 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' for target 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' failed. See inner exception for more details.</Message><StackTrace>
+Server stack trace: 
+   at System.ServiceModel.Security.IssuanceTokenProviderBase`1.DoNegotiation(TimeSpan timeout)
+   at System.ServiceModel.Security.SspiNegotiationTokenProvider.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Security.TlsnegoTokenProvider.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Security.SymmetricSecurityProtocol.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.ClientSecurityChannel`1.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.DoOperation(SecuritySessionOperation operation, EndpointAddress target, Uri via, SecurityToken currentToken, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.GetTokenCore(TimeSpan timeout)
+   at System.IdentityModel.Selectors.SecurityTokenProvider.GetToken(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionClientSettings`1.ClientSecuritySessionChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.CallOnceManager.CallOnce(TimeSpan timeout, CallOnceManager cascade)
+   at System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at uCRMLandingPage.wcf.IgatewayService.SetResourcesCulture(String cultureName)
+   at uCRMLandingPage.ServiceImplementation.GatewayService..ctor(HttpContext httpContext, String siteURL)
+   at uCRMLandingPage.ServiceImplementation.GatewayService.NewConnection(String siteURL, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Solvency.GetSolvency(GatewayService&amp; API, Int32 LandingPageID, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Solvency.IsSolvent(GatewayService&amp; API, Int32 LandingPageID, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Templates.GenericTemplate.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</StackTrace></Error></Exception>

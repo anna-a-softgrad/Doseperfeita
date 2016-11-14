@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?><Exception xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Message>SOAP security negotiation with 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' for target 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' failed. See inner exception for more details.</Message><Url>https://doseperfeita.com/v3/mob/default.aspx?caid=31164&amp;misc1=&amp;misc2=&amp;misc3=&amp;caCode=Google-DP_go1m&amp;nopop=0&amp;stid=449</Url><Path>/v3/mob/default.aspx</Path><IpAddress>187.34.137.112</IpAddress><UserAgent>Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630 Dual SIM) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537</UserAgent><Date>2016-03-23T12:51:48.3353467-04:00</Date><RequestParameters>caid=
+31164
+&amp;
+misc1=
+
+&amp;
+misc2=
+
+&amp;
+misc3=
+
+&amp;
+caCode=
+Google-DP_go1m
+&amp;
+nopop=
+0
+&amp;
+stid=
+449
+&amp;
+ALL_HTTP=
+HTTP_CONNECTION:Keep-Alive
+HTTP_CONTENT_LENGTH:0
+HTTP_ACCEPT:text/html, application/xhtml+xml, */*
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_ACCEPT_LANGUAGE:pt-BR,pt;q=0.5
+HTTP_HOST:doseperfeita.com
+HTTP_REFERER:http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+HTTP_USER_AGENT:Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630 Dual SIM) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537
+HTTP_UA_CPU:ARM
+HTTP_DNT:1
+
+&amp;
+ALL_RAW=
+Connection: Keep-Alive
+Content-Length: 0
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gzip, deflate
+Accept-Language: pt-BR,pt;q=0.5
+Host: doseperfeita.com
+Referer: http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+User-Agent: Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630 Dual SIM) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537
+UA-CPU: ARM
+DNT: 1
+
+&amp;
+APPL_MD_PATH=
+/LM/W3SVC/1/ROOT/v3/mob
+&amp;
+APPL_PHYSICAL_PATH=
+C:\SITES\doseperfeita.com\v3\mob\
+&amp;
+AUTH_TYPE=
+
+&amp;
+AUTH_USER=
+
+&amp;
+AUTH_PASSWORD=
+
+&amp;
+LOGON_USER=
+
+&amp;
+REMOTE_USER=
+
+&amp;
+CERT_COOKIE=
+
+&amp;
+CERT_FLAGS=
+
+&amp;
+CERT_ISSUER=
+
+&amp;
+CERT_KEYSIZE=
+128
+&amp;
+CERT_SECRETKEYSIZE=
+2048
+&amp;
+CERT_SERIALNUMBER=
+
+&amp;
+CERT_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+CERT_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+CERT_SUBJECT=
+
+&amp;
+CONTENT_LENGTH=
+0
+&amp;
+CONTENT_TYPE=
+
+&amp;
+GATEWAY_INTERFACE=
+CGI/1.1
+&amp;
+HTTPS=
+on
+&amp;
+HTTPS_KEYSIZE=
+128
+&amp;
+HTTPS_SECRETKEYSIZE=
+2048
+&amp;
+HTTPS_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+HTTPS_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+INSTANCE_ID=
+1
+&amp;
+INSTANCE_META_PATH=
+/LM/W3SVC/1
+&amp;
+LOCAL_ADDR=
+172.31.42.27
+&amp;
+PATH_INFO=
+/v3/mob/default.aspx
+&amp;
+PATH_TRANSLATED=
+C:\SITES\doseperfeita.com\v3\mob\default.aspx
+&amp;
+QUERY_STRING=
+caid=31164&amp;misc1=&amp;misc2=&amp;misc3=&amp;caCode=Google-DP_go1m&amp;nopop=0&amp;stid=449
+&amp;
+REMOTE_ADDR=
+187.34.137.112
+&amp;
+REMOTE_HOST=
+187.34.137.112
+&amp;
+REMOTE_PORT=
+56445
+&amp;
+REQUEST_METHOD=
+GET
+&amp;
+SCRIPT_NAME=
+/v3/mob/default.aspx
+&amp;
+SERVER_NAME=
+doseperfeita.com
+&amp;
+SERVER_PORT=
+443
+&amp;
+SERVER_PORT_SECURE=
+1
+&amp;
+SERVER_PROTOCOL=
+HTTP/1.1
+&amp;
+SERVER_SOFTWARE=
+Microsoft-IIS/8.0
+&amp;
+URL=
+/v3/mob/default.aspx
+&amp;
+HTTP_CONNECTION=
+Keep-Alive
+&amp;
+HTTP_CONTENT_LENGTH=
+0
+&amp;
+HTTP_ACCEPT=
+text/html, application/xhtml+xml, */*
+&amp;
+HTTP_ACCEPT_ENCODING=
+gzip, deflate
+&amp;
+HTTP_ACCEPT_LANGUAGE=
+pt-BR,pt;q=0.5
+&amp;
+HTTP_HOST=
+doseperfeita.com
+&amp;
+HTTP_REFERER=
+http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html
+&amp;
+HTTP_USER_AGENT=
+Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630 Dual SIM) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537
+&amp;
+HTTP_UA_CPU=
+ARM
+&amp;
+HTTP_DNT=
+1
+&amp;
+</RequestParameters><RequestSession>siteURL=
+http://doseperfeita.com/v3/mob/
+&amp;
+cache_OrderPageActivity=
+41cb3730-e86d-4164-a1f3-b043c0842a94
+&amp;
+</RequestSession><Error><TimeStamp>2016-03-23T12:51:48.3353467-04:00</TimeStamp><Message>SOAP security negotiation with 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' for target 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' failed. See inner exception for more details.</Message><StackTrace>
+Server stack trace: 
+   at System.ServiceModel.Security.IssuanceTokenProviderBase`1.DoNegotiation(TimeSpan timeout)
+   at System.ServiceModel.Security.SspiNegotiationTokenProvider.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Security.TlsnegoTokenProvider.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Security.SymmetricSecurityProtocol.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.ClientSecurityChannel`1.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.DoOperation(SecuritySessionOperation operation, EndpointAddress target, Uri via, SecurityToken currentToken, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.GetTokenCore(TimeSpan timeout)
+   at System.IdentityModel.Selectors.SecurityTokenProvider.GetToken(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionClientSettings`1.ClientSecuritySessionChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.CallOnceManager.CallOnce(TimeSpan timeout, CallOnceManager cascade)
+   at System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at uCRMLandingPage.wcf.IgatewayService.SetResourcesCulture(String cultureName)
+   at uCRMLandingPage.ServiceImplementation.GatewayService..ctor(HttpContext httpContext, String siteURL)
+   at uCRMLandingPage.ServiceImplementation.GatewayService.NewConnection(String siteURL, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Templates.GenericTemplate.StartLoad(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</StackTrace></Error></Exception>

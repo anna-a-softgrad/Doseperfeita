@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?><Exception xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Message>An unsecured or incorrectly secured fault was received from the other party. See the inner FaultException for the fault code and detail.</Message><Url>https://doseperfeita.com/v3/mob/default.aspx?type=i</Url><Path>/v3/mob/default.aspx</Path><IpAddress>189.115.196.106</IpAddress><UserAgent>Mozilla/5.0 (Linux; Android 6.0; XT1078 Build/MPB24.65-34; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/82.0.0.23.70;]</UserAgent><Date>2016-06-26T14:17:15.108027-04:00</Date><RequestParameters>type=
+i
+&amp;
+ALL_HTTP=
+HTTP_CACHE_CONTROL:no-cache
+HTTP_CONNECTION:keep-alive
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_HOST:doseperfeita.com
+HTTP_REFERER:http://m.facebook.com/
+HTTP_USER_AGENT:Mozilla/5.0 (Linux; Android 6.0; XT1078 Build/MPB24.65-34; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/82.0.0.23.70;]
+HTTP_X_PURPOSE:preview
+HTTP_X_FB_NET_HNI:72411
+HTTP_X_FB_SIM_HNI:72411
+HTTP_X_FB_HTTP_ENGINE:Liger
+
+&amp;
+ALL_RAW=
+Cache-Control: no-cache
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Host: doseperfeita.com
+Referer: http://m.facebook.com/
+User-Agent: Mozilla/5.0 (Linux; Android 6.0; XT1078 Build/MPB24.65-34; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/82.0.0.23.70;]
+X-Purpose: preview
+x-fb-net-hni: 72411
+x-fb-sim-hni: 72411
+x-fb-http-engine: Liger
+
+&amp;
+APPL_MD_PATH=
+/LM/W3SVC/1/ROOT/v3/mob
+&amp;
+APPL_PHYSICAL_PATH=
+C:\SITES\doseperfeita.com\v3\mob\
+&amp;
+AUTH_TYPE=
+
+&amp;
+AUTH_USER=
+
+&amp;
+AUTH_PASSWORD=
+
+&amp;
+LOGON_USER=
+
+&amp;
+REMOTE_USER=
+
+&amp;
+CERT_COOKIE=
+
+&amp;
+CERT_FLAGS=
+
+&amp;
+CERT_ISSUER=
+
+&amp;
+CERT_KEYSIZE=
+128
+&amp;
+CERT_SECRETKEYSIZE=
+2048
+&amp;
+CERT_SERIALNUMBER=
+
+&amp;
+CERT_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+CERT_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+CERT_SUBJECT=
+
+&amp;
+CONTENT_LENGTH=
+0
+&amp;
+CONTENT_TYPE=
+
+&amp;
+GATEWAY_INTERFACE=
+CGI/1.1
+&amp;
+HTTPS=
+on
+&amp;
+HTTPS_KEYSIZE=
+128
+&amp;
+HTTPS_SECRETKEYSIZE=
+2048
+&amp;
+HTTPS_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+HTTPS_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+INSTANCE_ID=
+1
+&amp;
+INSTANCE_META_PATH=
+/LM/W3SVC/1
+&amp;
+LOCAL_ADDR=
+172.31.42.27
+&amp;
+PATH_INFO=
+/v3/mob/default.aspx
+&amp;
+PATH_TRANSLATED=
+C:\SITES\doseperfeita.com\v3\mob\default.aspx
+&amp;
+QUERY_STRING=
+type=i
+&amp;
+REMOTE_ADDR=
+189.115.196.106
+&amp;
+REMOTE_HOST=
+189.115.196.106
+&amp;
+REMOTE_PORT=
+35839
+&amp;
+REQUEST_METHOD=
+GET
+&amp;
+SCRIPT_NAME=
+/v3/mob/default.aspx
+&amp;
+SERVER_NAME=
+doseperfeita.com
+&amp;
+SERVER_PORT=
+443
+&amp;
+SERVER_PORT_SECURE=
+1
+&amp;
+SERVER_PROTOCOL=
+HTTP/1.1
+&amp;
+SERVER_SOFTWARE=
+Microsoft-IIS/8.0
+&amp;
+URL=
+/v3/mob/default.aspx
+&amp;
+HTTP_CACHE_CONTROL=
+no-cache
+&amp;
+HTTP_CONNECTION=
+keep-alive
+&amp;
+HTTP_ACCEPT=
+text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+&amp;
+HTTP_ACCEPT_ENCODING=
+gzip, deflate
+&amp;
+HTTP_HOST=
+doseperfeita.com
+&amp;
+HTTP_REFERER=
+http://m.facebook.com/
+&amp;
+HTTP_USER_AGENT=
+Mozilla/5.0 (Linux; Android 6.0; XT1078 Build/MPB24.65-34; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/51.0.2704.81 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/82.0.0.23.70;]
+&amp;
+HTTP_X_PURPOSE=
+preview
+&amp;
+HTTP_X_FB_NET_HNI=
+72411
+&amp;
+HTTP_X_FB_SIM_HNI=
+72411
+&amp;
+HTTP_X_FB_HTTP_ENGINE=
+Liger
+&amp;
+</RequestParameters><RequestSession>siteURL=
+http://doseperfeita.com/v3/mob/
+&amp;
+cache_OrderPageActivity=
+8a2c8709-766d-49b8-9289-6e84303bc055
+&amp;
+</RequestSession><Error><TimeStamp>2016-06-26T14:17:15.108027-04:00</TimeStamp><Message>An unsecured or incorrectly secured fault was received from the other party. See the inner FaultException for the fault code and detail.</Message><StackTrace>
+Server stack trace: 
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.SecurityRequestChannel.ProcessReply(Message reply, SecurityProtocolCorrelationState correlationState, TimeSpan timeout)
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.SecurityRequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.DoOperation(SecuritySessionOperation operation, EndpointAddress target, Uri via, SecurityToken currentToken, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.GetTokenCore(TimeSpan timeout)
+   at System.IdentityModel.Selectors.SecurityTokenProvider.GetToken(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionClientSettings`1.ClientSecuritySessionChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.CallOnceManager.CallOnce(TimeSpan timeout, CallOnceManager cascade)
+   at System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at uCRMLandingPage.wcf.IgatewayService.SetResourcesCulture(String cultureName)
+   at uCRMLandingPage.ServiceImplementation.GatewayService..ctor(HttpContext httpContext, String siteURL)
+   at uCRMLandingPage.ServiceImplementation.GatewayService.NewConnection(String siteURL, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Templates.GenericTemplate.StartLoad(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</StackTrace></Error></Exception>

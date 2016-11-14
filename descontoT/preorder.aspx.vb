@@ -1,0 +1,61 @@
+﻿
+Partial Class preorder
+    Inherits uCRMLandingPage.Templates.GenericTemplate
+
+	Protected Sub Page_PreInit(sender As Object, e As EventArgs) Handles Me.PreInit
+		If (Not Request.IsSecureConnection) Then
+			Response.Redirect(SecuredURL & "preorder.aspx")
+		End If
+	End Sub
+
+    Protected Sub Page_Init(sender As Object, e As EventArgs) Handles Me.Init
+        Me.PageType = uCRMLandingPage.Templates.PageType.StarPage
+        NotUseValidationHeader = True
+        Me.SaleCountryID = 27
+    End Sub
+
+    Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        If (Not IsPostBack) Then
+            nome.Value = objVisitor.firstName
+            sobrenome.Value = objVisitor.lastName
+            email.Value = objVisitor.email
+            celular.Value = Regex.Replace(objVisitor.phone, "\D", "")
+            cep.Value = objVisitor.zipCode
+            rua.Value = objVisitor.address1
+            numero.Value = objVisitor.GetCustomField(uCRMLandingPage.CustomFieldNames.Numero)
+            complemento.Value = objVisitor.GetCustomField(uCRMLandingPage.CustomFieldNames.Complemento)
+            bairro.Value = objVisitor.GetCustomField(uCRMLandingPage.CustomFieldNames.Bairro)
+            cidade.Value = objVisitor.city
+            ibge.Value = objVisitor.GetCustomField(uCRMLandingPage.CustomFieldNames.IBGE)
+            addressType.Value = objVisitor.GetCustomField(uCRMLandingPage.CustomFieldNames.AddressType)
+
+            states.Items.Insert(0, New ListItem("Estado", ""))
+
+            Dim tmpItem As ListItem = states.Items.FindByValue(objVisitor.state)
+            If (tmpItem IsNot Nothing) Then
+                tmpItem.Selected = True
+            End If
+        Else
+            With (objVisitor)
+                .firstName = nome.Value
+                .lastName = sobrenome.Value
+                .email = email.Value
+                .phone = celular.Value
+                .zipCode = cep.Value
+                .address1 = rua.Value
+                .city = cidade.Value
+                .state = states.SelectedValue
+                .AddCustomField(uCRMLandingPage.CustomFieldNames.Numero, numero.Value)
+                .AddCustomField(uCRMLandingPage.CustomFieldNames.Complemento, complemento.Value)
+                .AddCustomField(uCRMLandingPage.CustomFieldNames.Bairro, bairro.Value)
+                .AddCustomField(uCRMLandingPage.CustomFieldNames.IBGE, ibge.Value)
+                .AddCustomField(uCRMLandingPage.CustomFieldNames.AddressType, addressType.Value)
+                .country = "BR"
+            End With
+
+            SaveLead()
+            Response.Redirect(SecuredURL & "order.aspx")
+        End If
+    End Sub
+
+End Class

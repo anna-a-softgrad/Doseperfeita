@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?><Exception xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Message>An unsecured or incorrectly secured fault was received from the other party. See the inner FaultException for the fault code and detail.</Message><Url>https://doseperfeita.com/v3/mob/weight-loss.aspx?type=c</Url><Path>/v3/mob/weight-loss.aspx</Path><IpAddress>189.127.20.28</IpAddress><UserAgent>Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)</UserAgent><Date>2016-06-26T13:27:15.7800501-04:00</Date><RequestParameters>type=
+c
+&amp;
+v=
+%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.127.20.28%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-26T09%3a25%3a38.6633881-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fgoogleads.g.doubleclick.net%2fpagead%2fads%3fclient%3dca-pub-3936622510749681%26amp%3bformat%3d314x250%26amp%3boutput%3dhtml%26amp%3bh%3d250%26amp%3bslotname%3d9278531456%26amp%3badk%3d2155853338%26amp%3bw%3d314%26amp%3bafmt%3dauto%26amp%3blmt%3d1466947460%26amp%3bea%3d0%26amp%3bflash%3d0%26amp%3burl%3dhttp%3a%2f%2fwww.receitadevovo.com.br%2freceitas%2fbolo-de-milho-de-liquidificador-2%26amp%3bresp_fmts%3d3%26amp%3bwgl%3d0%26amp%3bdt%3d1466947454926%26amp%3bbpp%3d33%26amp%3bbdt%3d2724%26amp%3bfdt%3d5016%26amp%3bidt%3d5392%26amp%3bshv%3dr20160617%26amp%3bcbv%3dr20151006%26amp%3bsaldr%3daa%26amp%3bprev_fmts%3d336x280%2c314x250%2c320x100%26amp%3bcorrelator%3d1285099734479%26amp%3bfrm%3d20%26amp%3bga_vid%3d1359228860.1466947401%26amp%3bga_sid%3d1466947456%26amp%3bga_hid%3d1209766760%26amp%3bga_fc%3d0%26amp%3bpv%3d1%26amp%3bicsg%3d2%26amp%3bnhd%3d1%26amp%3bdssz%3d2%26amp%3bmdo%3d0%26amp%3bmso%3d0%26amp%3bu_tz%3d-180%26amp%3bu_his%3d15%26amp%3bu_java%3d1%26amp%3bu_h%3d800%26amp%3bu_w%3d480%26amp%3bu_ah%3d800%26amp%3bu_aw%3d480%26amp%3bu_cd%3d24%26amp%3bu_nplug%3d0%26amp%3bu_nmime%3d0%26amp%3bdff%3dsegoe+ui%26amp%3bdfs%3d16%26amp%3badx%3d3%26amp%3bady%3d4078%26amp%3bbiw%3d320%26amp%3bbih%3d486%26amp%3beid%3d10573695%2c20040015%2c575144605%2c828064226%26amp%3boid%3d3%26amp%3bref%3dhttp%3a%2f%2fwww.receitadevovo.com.br%2freceitas%2fbolo-de-coco-2%26amp%3brx%3d0%26amp%3beae%3d4%26amp%3bfc%3d250%26amp%3bpc%3d1%26amp%3bdocm%3d10%26amp%3bbrdim%3d0%2c0%2c1000%2c1000%2c480%2c%2c320%2c485%2c320%2c485%26amp%3bvis%3d1%26amp%3brsz%3do%7c%7cl%7c%26amp%3babl%3dCS%26amp%3bppjl%3df%26amp%3bpfx%3d0%26amp%3bfu%3d144%26amp%3bbc%3d1%26amp%3bifi%3d4%26amp%3bdtd%3d5743%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e,%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.127.20.28%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-26T09%3a25%3a38.6633881-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fgoogleads.g.doubleclick.net%2fpagead%2fads%3fclient%3dca-pub-3936622510749681%26amp%3bformat%3d314x250%26amp%3boutput%3dhtml%26amp%3bh%3d250%26amp%3bslotname%3d9278531456%26amp%3badk%3d2155853338%26amp%3bw%3d314%26amp%3bafmt%3dauto%26amp%3blmt%3d1466947460%26amp%3bea%3d0%26amp%3bflash%3d0%26amp%3burl%3dhttp%3a%2f%2fwww.receitadevovo.com.br%2freceitas%2fbolo-de-milho-de-liquidificador-2%26amp%3bresp_fmts%3d3%26amp%3bwgl%3d0%26amp%3bdt%3d1466947454926%26amp%3bbpp%3d33%26amp%3bbdt%3d2724%26amp%3bfdt%3d5016%26amp%3bidt%3d5392%26amp%3bshv%3dr20160617%26amp%3bcbv%3dr20151006%26amp%3bsaldr%3daa%26amp%3bprev_fmts%3d336x280%2c314x250%2c320x100%26amp%3bcorrelator%3d1285099734479%26amp%3bfrm%3d20%26amp%3bga_vid%3d1359228860.1466947401%26amp%3bga_sid%3d1466947456%26amp%3bga_hid%3d1209766760%26amp%3bga_fc%3d0%26amp%3bpv%3d1%26amp%3bicsg%3d2%26amp%3bnhd%3d1%26amp%3bdssz%3d2%26amp%3bmdo%3d0%26amp%3bmso%3d0%26amp%3bu_tz%3d-180%26amp%3bu_his%3d15%26amp%3bu_java%3d1%26amp%3bu_h%3d800%26amp%3bu_w%3d480%26amp%3bu_ah%3d800%26amp%3bu_aw%3d480%26amp%3bu_cd%3d24%26amp%3bu_nplug%3d0%26amp%3bu_nmime%3d0%26amp%3bdff%3dsegoe+ui%26amp%3bdfs%3d16%26amp%3badx%3d3%26amp%3bady%3d4078%26amp%3bbiw%3d320%26amp%3bbih%3d486%26amp%3beid%3d10573695%2c20040015%2c575144605%2c828064226%26amp%3boid%3d3%26amp%3bref%3dhttp%3a%2f%2fwww.receitadevovo.com.br%2freceitas%2fbolo-de-coco-2%26amp%3brx%3d0%26amp%3beae%3d4%26amp%3bfc%3d250%26amp%3bpc%3d1%26amp%3bdocm%3d10%26amp%3bbrdim%3d0%2c0%2c1000%2c1000%2c480%2c%2c320%2c485%2c320%2c485%26amp%3bvis%3d1%26amp%3brsz%3do%7c%7cl%7c%26amp%3babl%3dCS%26amp%3bppjl%3df%26amp%3bpfx%3d0%26amp%3bfu%3d144%26amp%3bbc%3d1%26amp%3bifi%3d4%26amp%3bdtd%3d5743%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+&amp;
+_ga=
+GA1.2.742243217.1466947517
+&amp;
+ASP.NET_SessionId=
+00ubruvqdrfp5livpocan0kj
+&amp;
+ALL_HTTP=
+HTTP_CONNECTION:Keep-Alive
+HTTP_ACCEPT:text/html, application/xhtml+xml, */*
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_ACCEPT_LANGUAGE:pt-BR
+HTTP_COOKIE:v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.127.17.159%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-26T09%3a25%3a38.6633881-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fgoogleads.g.doubleclick.net%2fpagead%2fads%3fclient%3dca-pub-3936622510749681%26amp%3bformat%3d314x250%26amp%3boutput%3dhtml%26amp%3bh%3d250%26amp%3bslotname%3d9278531456%26amp%3badk%3d2155853338%26amp%3bw%3d314%26amp%3bafmt%3dauto%26amp%3blmt%3d1466947460%26amp%3bea%3d0%26amp%3bflash%3d0%26amp%3burl%3dhttp%3a%2f%2fwww.receitadevovo.com.br%2freceitas%2fbolo-de-milho-de-liquidificador-2%26amp%3bresp_fmts%3d3%26amp%3bwgl%3d0%26amp%3bdt%3d1466947454926%26amp%3bbpp%3d33%26amp%3bbdt%3d2724%26amp%3bfdt%3d5016%26amp%3bidt%3d5392%26amp%3bshv%3dr20160617%26amp%3bcbv%3dr20151006%26amp%3bsaldr%3daa%26amp%3bprev_fmts%3d336x280%2c314x250%2c320x100%26amp%3bcorrelator%3d1285099734479%26amp%3bfrm%3d20%26amp%3bga_vid%3d1359228860.1466947401%26amp%3bga_sid%3d1466947456%26amp%3bga_hid%3d1209766760%26amp%3bga_fc%3d0%26amp%3bpv%3d1%26amp%3bicsg%3d2%26amp%3bnhd%3d1%26amp%3bdssz%3d2%26amp%3bmdo%3d0%26amp%3bmso%3d0%26amp%3bu_tz%3d-180%26amp%3bu_his%3d15%26amp%3bu_java%3d1%26amp%3bu_h%3d800%26amp%3bu_w%3d480%26amp%3bu_ah%3d800%26amp%3bu_aw%3d480%26amp%3bu_cd%3d24%26amp%3bu_nplug%3d0%26amp%3bu_nmime%3d0%26amp%3bdff%3dsegoe+ui%26amp%3bdfs%3d16%26amp%3badx%3d3%26amp%3bady%3d4078%26amp%3bbiw%3d320%26amp%3bbih%3d486%26amp%3beid%3d10573695%2c20040015%2c575144605%2c828064226%26amp%3boid%3d3%26amp%3bref%3dhttp%3a%2f%2fwww.receitadevovo.com.br%2freceitas%2fbolo-de-coco-2%26amp%3brx%3d0%26amp%3beae%3d4%26amp%3bfc%3d250%26amp%3bpc%3d1%26amp%3bdocm%3d10%26amp%3bbrdim%3d0%2c0%2c1000%2c1000%2c480%2c%2c320%2c485%2c320%2c485%26amp%3bvis%3d1%26amp%3brsz%3do%7c%7cl%7c%26amp%3babl%3dCS%26amp%3bppjl%3df%26amp%3bpfx%3d0%26amp%3bfu%3d144%26amp%3bbc%3d1%26amp%3bifi%3d4%26amp%3bdtd%3d5743%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.742243217.1466947517
+HTTP_HOST:doseperfeita.com
+HTTP_USER_AGENT:Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)
+HTTP_UA_CPU:ARM
+HTTP_DNT:1
+
+&amp;
+ALL_RAW=
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gzip, deflate
+Accept-Language: pt-BR
+Cookie: v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.127.17.159%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-26T09%3a25%3a38.6633881-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fgoogleads.g.doubleclick.net%2fpagead%2fads%3fclient%3dca-pub-3936622510749681%26amp%3bformat%3d314x250%26amp%3boutput%3dhtml%26amp%3bh%3d250%26amp%3bslotname%3d9278531456%26amp%3badk%3d2155853338%26amp%3bw%3d314%26amp%3bafmt%3dauto%26amp%3blmt%3d1466947460%26amp%3bea%3d0%26amp%3bflash%3d0%26amp%3burl%3dhttp%3a%2f%2fwww.receitadevovo.com.br%2freceitas%2fbolo-de-milho-de-liquidificador-2%26amp%3bresp_fmts%3d3%26amp%3bwgl%3d0%26amp%3bdt%3d1466947454926%26amp%3bbpp%3d33%26amp%3bbdt%3d2724%26amp%3bfdt%3d5016%26amp%3bidt%3d5392%26amp%3bshv%3dr20160617%26amp%3bcbv%3dr20151006%26amp%3bsaldr%3daa%26amp%3bprev_fmts%3d336x280%2c314x250%2c320x100%26amp%3bcorrelator%3d1285099734479%26amp%3bfrm%3d20%26amp%3bga_vid%3d1359228860.1466947401%26amp%3bga_sid%3d1466947456%26amp%3bga_hid%3d1209766760%26amp%3bga_fc%3d0%26amp%3bpv%3d1%26amp%3bicsg%3d2%26amp%3bnhd%3d1%26amp%3bdssz%3d2%26amp%3bmdo%3d0%26amp%3bmso%3d0%26amp%3bu_tz%3d-180%26amp%3bu_his%3d15%26amp%3bu_java%3d1%26amp%3bu_h%3d800%26amp%3bu_w%3d480%26amp%3bu_ah%3d800%26amp%3bu_aw%3d480%26amp%3bu_cd%3d24%26amp%3bu_nplug%3d0%26amp%3bu_nmime%3d0%26amp%3bdff%3dsegoe+ui%26amp%3bdfs%3d16%26amp%3badx%3d3%26amp%3bady%3d4078%26amp%3bbiw%3d320%26amp%3bbih%3d486%26amp%3beid%3d10573695%2c20040015%2c575144605%2c828064226%26amp%3boid%3d3%26amp%3bref%3dhttp%3a%2f%2fwww.receitadevovo.com.br%2freceitas%2fbolo-de-coco-2%26amp%3brx%3d0%26amp%3beae%3d4%26amp%3bfc%3d250%26amp%3bpc%3d1%26amp%3bdocm%3d10%26amp%3bbrdim%3d0%2c0%2c1000%2c1000%2c480%2c%2c320%2c485%2c320%2c485%26amp%3bvis%3d1%26amp%3brsz%3do%7c%7cl%7c%26amp%3babl%3dCS%26amp%3bppjl%3df%26amp%3bpfx%3d0%26amp%3bfu%3d144%26amp%3bbc%3d1%26amp%3bifi%3d4%26amp%3bdtd%3d5743%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.742243217.1466947517
+Host: doseperfeita.com
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)
+UA-CPU: ARM
+DNT: 1
+
+&amp;
+APPL_MD_PATH=
+/LM/W3SVC/1/ROOT/v3/mob
+&amp;
+APPL_PHYSICAL_PATH=
+C:\SITES\doseperfeita.com\v3\mob\
+&amp;
+AUTH_TYPE=
+
+&amp;
+AUTH_USER=
+
+&amp;
+AUTH_PASSWORD=
+
+&amp;
+LOGON_USER=
+
+&amp;
+REMOTE_USER=
+
+&amp;
+CERT_COOKIE=
+
+&amp;
+CERT_FLAGS=
+
+&amp;
+CERT_ISSUER=
+
+&amp;
+CERT_KEYSIZE=
+128
+&amp;
+CERT_SECRETKEYSIZE=
+2048
+&amp;
+CERT_SERIALNUMBER=
+
+&amp;
+CERT_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+CERT_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+CERT_SUBJECT=
+
+&amp;
+CONTENT_LENGTH=
+0
+&amp;
+CONTENT_TYPE=
+
+&amp;
+GATEWAY_INTERFACE=
+CGI/1.1
+&amp;
+HTTPS=
+on
+&amp;
+HTTPS_KEYSIZE=
+128
+&amp;
+HTTPS_SECRETKEYSIZE=
+2048
+&amp;
+HTTPS_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+HTTPS_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+INSTANCE_ID=
+1
+&amp;
+INSTANCE_META_PATH=
+/LM/W3SVC/1
+&amp;
+LOCAL_ADDR=
+172.31.42.27
+&amp;
+PATH_INFO=
+/v3/mob/weight-loss.aspx
+&amp;
+PATH_TRANSLATED=
+C:\SITES\doseperfeita.com\v3\mob\weight-loss.aspx
+&amp;
+QUERY_STRING=
+type=c
+&amp;
+REMOTE_ADDR=
+189.127.20.28
+&amp;
+REMOTE_HOST=
+189.127.20.28
+&amp;
+REMOTE_PORT=
+57594
+&amp;
+REQUEST_METHOD=
+GET
+&amp;
+SCRIPT_NAME=
+/v3/mob/weight-loss.aspx
+&amp;
+SERVER_NAME=
+doseperfeita.com
+&amp;
+SERVER_PORT=
+443
+&amp;
+SERVER_PORT_SECURE=
+1
+&amp;
+SERVER_PROTOCOL=
+HTTP/1.1
+&amp;
+SERVER_SOFTWARE=
+Microsoft-IIS/8.0
+&amp;
+URL=
+/v3/mob/weight-loss.aspx
+&amp;
+HTTP_CONNECTION=
+Keep-Alive
+&amp;
+HTTP_ACCEPT=
+text/html, application/xhtml+xml, */*
+&amp;
+HTTP_ACCEPT_ENCODING=
+gzip, deflate
+&amp;
+HTTP_ACCEPT_LANGUAGE=
+pt-BR
+&amp;
+HTTP_COOKIE=
+v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.127.17.159%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-26T09%3a25%3a38.6633881-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fgoogleads.g.doubleclick.net%2fpagead%2fads%3fclient%3dca-pub-3936622510749681%26amp%3bformat%3d314x250%26amp%3boutput%3dhtml%26amp%3bh%3d250%26amp%3bslotname%3d9278531456%26amp%3badk%3d2155853338%26amp%3bw%3d314%26amp%3bafmt%3dauto%26amp%3blmt%3d1466947460%26amp%3bea%3d0%26amp%3bflash%3d0%26amp%3burl%3dhttp%3a%2f%2fwww.receitadevovo.com.br%2freceitas%2fbolo-de-milho-de-liquidificador-2%26amp%3bresp_fmts%3d3%26amp%3bwgl%3d0%26amp%3bdt%3d1466947454926%26amp%3bbpp%3d33%26amp%3bbdt%3d2724%26amp%3bfdt%3d5016%26amp%3bidt%3d5392%26amp%3bshv%3dr20160617%26amp%3bcbv%3dr20151006%26amp%3bsaldr%3daa%26amp%3bprev_fmts%3d336x280%2c314x250%2c320x100%26amp%3bcorrelator%3d1285099734479%26amp%3bfrm%3d20%26amp%3bga_vid%3d1359228860.1466947401%26amp%3bga_sid%3d1466947456%26amp%3bga_hid%3d1209766760%26amp%3bga_fc%3d0%26amp%3bpv%3d1%26amp%3bicsg%3d2%26amp%3bnhd%3d1%26amp%3bdssz%3d2%26amp%3bmdo%3d0%26amp%3bmso%3d0%26amp%3bu_tz%3d-180%26amp%3bu_his%3d15%26amp%3bu_java%3d1%26amp%3bu_h%3d800%26amp%3bu_w%3d480%26amp%3bu_ah%3d800%26amp%3bu_aw%3d480%26amp%3bu_cd%3d24%26amp%3bu_nplug%3d0%26amp%3bu_nmime%3d0%26amp%3bdff%3dsegoe+ui%26amp%3bdfs%3d16%26amp%3badx%3d3%26amp%3bady%3d4078%26amp%3bbiw%3d320%26amp%3bbih%3d486%26amp%3beid%3d10573695%2c20040015%2c575144605%2c828064226%26amp%3boid%3d3%26amp%3bref%3dhttp%3a%2f%2fwww.receitadevovo.com.br%2freceitas%2fbolo-de-coco-2%26amp%3brx%3d0%26amp%3beae%3d4%26amp%3bfc%3d250%26amp%3bpc%3d1%26amp%3bdocm%3d10%26amp%3bbrdim%3d0%2c0%2c1000%2c1000%2c480%2c%2c320%2c485%2c320%2c485%26amp%3bvis%3d1%26amp%3brsz%3do%7c%7cl%7c%26amp%3babl%3dCS%26amp%3bppjl%3df%26amp%3bpfx%3d0%26amp%3bfu%3d144%26amp%3bbc%3d1%26amp%3bifi%3d4%26amp%3bdtd%3d5743%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.742243217.1466947517
+&amp;
+HTTP_HOST=
+doseperfeita.com
+&amp;
+HTTP_USER_AGENT=
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/6.0; IEMobile/10.0; ARM; Touch; NOKIA; Lumia 520)
+&amp;
+HTTP_UA_CPU=
+ARM
+&amp;
+HTTP_DNT=
+1
+&amp;
+</RequestParameters><RequestSession>WLType=
+c
+&amp;
+cache_OrderPageActivity=
+b8b02aa5-2b40-454b-bede-754bc92df05c
+&amp;
+objvisitor=
+&lt;V xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CSRID&gt;0&lt;/CSRID&gt;
+  &lt;pid&gt;100&lt;/pid&gt;
+  &lt;ip&gt;189.127.20.28&lt;/ip&gt;
+  &lt;mid&gt;0&lt;/mid&gt;
+  &lt;det&gt;0001-01-01T00:00:00&lt;/det&gt;
+  &lt;dec&gt;0&lt;/dec&gt;
+  &lt;cntFOA&gt;0&lt;/cntFOA&gt;
+  &lt;vid&gt;0&lt;/vid&gt;
+  &lt;sn /&gt;
+  &lt;s /&gt;
+  &lt;bs /&gt;
+  &lt;co /&gt;
+  &lt;bf /&gt;
+  &lt;bl /&gt;
+  &lt;bla /&gt;
+  &lt;bla1 /&gt;
+  &lt;blc /&gt;
+  &lt;bls&gt;0&lt;/bls&gt;
+  &lt;blz /&gt;
+  &lt;c1&gt;0&lt;/c1&gt;
+  &lt;c2&gt;0&lt;/c2&gt;
+  &lt;c3&gt;0&lt;/c3&gt;
+  &lt;c4&gt;0&lt;/c4&gt;
+  &lt;cID&gt;31164&lt;/cID&gt;
+  &lt;cc&gt;Google-DP_go1m&lt;/cc&gt;
+  &lt;stID&gt;0&lt;/stID&gt;
+  &lt;e1 /&gt;
+  &lt;m1 /&gt;
+  &lt;m2 /&gt;
+  &lt;m3 /&gt;
+  &lt;t&gt;0&lt;/t&gt;
+  &lt;cuid&gt;0&lt;/cuid&gt;
+  &lt;LeadType /&gt;
+  &lt;lvd&gt;2016-06-26T09:25:38.6633881-04:00&lt;/lvd&gt;
+  &lt;sls&gt;false&lt;/sls&gt;
+  &lt;ocfld /&gt;
+  &lt;cfld&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Referrer&lt;/FieldName&gt;
+      &lt;FieldValue&gt;https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3936622510749681&amp;amp;format=314x250&amp;amp;output=html&amp;amp;h=250&amp;amp;slotname=9278531456&amp;amp;adk=2155853338&amp;amp;w=314&amp;amp;afmt=auto&amp;amp;lmt=1466947460&amp;amp;ea=0&amp;amp;flash=0&amp;amp;url=http://www.receitadevovo.com.br/receitas/bolo-de-milho-de-liquidificador-2&amp;amp;resp_fmts=3&amp;amp;wgl=0&amp;amp;dt=1466947454926&amp;amp;bpp=33&amp;amp;bdt=2724&amp;amp;fdt=5016&amp;amp;idt=5392&amp;amp;shv=r20160617&amp;amp;cbv=r20151006&amp;amp;saldr=aa&amp;amp;prev_fmts=336x280,314x250,320x100&amp;amp;correlator=1285099734479&amp;amp;frm=20&amp;amp;ga_vid=1359228860.1466947401&amp;amp;ga_sid=1466947456&amp;amp;ga_hid=1209766760&amp;amp;ga_fc=0&amp;amp;pv=1&amp;amp;icsg=2&amp;amp;nhd=1&amp;amp;dssz=2&amp;amp;mdo=0&amp;amp;mso=0&amp;amp;u_tz=-180&amp;amp;u_his=15&amp;amp;u_java=1&amp;amp;u_h=800&amp;amp;u_w=480&amp;amp;u_ah=800&amp;amp;u_aw=480&amp;amp;u_cd=24&amp;amp;u_nplug=0&amp;amp;u_nmime=0&amp;amp;dff=segoe ui&amp;amp;dfs=16&amp;amp;adx=3&amp;amp;ady=4078&amp;amp;biw=320&amp;amp;bih=486&amp;amp;eid=10573695,20040015,575144605,828064226&amp;amp;oid=3&amp;amp;ref=http://www.receitadevovo.com.br/receitas/bolo-de-coco-2&amp;amp;rx=0&amp;amp;eae=4&amp;amp;fc=250&amp;amp;pc=1&amp;amp;docm=10&amp;amp;brdim=0,0,1000,1000,480,,320,485,320,485&amp;amp;vis=1&amp;amp;rsz=o||l|&amp;amp;abl=CS&amp;amp;ppjl=f&amp;amp;pfx=0&amp;amp;fu=144&amp;amp;bc=1&amp;amp;ifi=4&amp;amp;dtd=5743&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+  &lt;/cfld&gt;
+  &lt;so /&gt;
+  &lt;iccid&gt;0&lt;/iccid&gt;
+  &lt;f /&gt;
+  &lt;l /&gt;
+  &lt;a1 /&gt;
+  &lt;a2 /&gt;
+  &lt;c /&gt;
+  &lt;si&gt;0&lt;/si&gt;
+  &lt;z /&gt;
+  &lt;ci&gt;0&lt;/ci&gt;
+  &lt;p /&gt;
+  &lt;p2 /&gt;
+  &lt;e /&gt;
+  &lt;RefCustomerID&gt;0&lt;/RefCustomerID&gt;
+  &lt;su&gt;http://doseperfeita.com/v3/mob/&lt;/su&gt;
+&lt;/V&gt;
+&amp;
+siteURL=
+http://doseperfeita.com/v3/mob/
+&amp;
+</RequestSession><Error><TimeStamp>2016-06-26T13:27:15.7800501-04:00</TimeStamp><Message>An unsecured or incorrectly secured fault was received from the other party. See the inner FaultException for the fault code and detail.</Message><StackTrace>
+Server stack trace: 
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.SecurityRequestChannel.ProcessReply(Message reply, SecurityProtocolCorrelationState correlationState, TimeSpan timeout)
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.SecurityRequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.DoOperation(SecuritySessionOperation operation, EndpointAddress target, Uri via, SecurityToken currentToken, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.GetTokenCore(TimeSpan timeout)
+   at System.IdentityModel.Selectors.SecurityTokenProvider.GetToken(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionClientSettings`1.ClientSecuritySessionChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.CallOnceManager.CallOnce(TimeSpan timeout, CallOnceManager cascade)
+   at System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at uCRMLandingPage.wcf.IgatewayService.SetResourcesCulture(String cultureName)
+   at uCRMLandingPage.ServiceImplementation.GatewayService..ctor(HttpContext httpContext, String siteURL)
+   at uCRMLandingPage.ServiceImplementation.GatewayService.NewConnection(String siteURL, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Solvency.GetSolvency(GatewayService&amp; API, Int32 LandingPageID, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Solvency.IsSolvent(GatewayService&amp; API, Int32 LandingPageID, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Templates.GenericTemplate.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</StackTrace></Error></Exception>

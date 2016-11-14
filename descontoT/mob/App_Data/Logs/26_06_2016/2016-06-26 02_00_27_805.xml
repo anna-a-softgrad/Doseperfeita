@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?><Exception xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Message>An unsecured or incorrectly secured fault was received from the other party. See the inner FaultException for the fault code and detail.</Message><Url>https://doseperfeita.com/v3/mob/default.aspx</Url><Path>/v3/mob/default.aspx</Path><IpAddress>189.31.75.99</IpAddress><UserAgent>Mozilla/5.0 (Linux; Android 4.4.4; E2124 Build/24.0.B.5.14) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/82.0.0.23.70;]</UserAgent><Date>2016-06-26T14:00:27.8051795-04:00</Date><RequestParameters>ASP.NET_SessionId=
+qscr32zzwmnmymlps5kfghmk
+&amp;
+v=
+%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.31.75.99%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-26T11%3a53%3a25.065046-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2fweight-loss.aspx%3ftype%3dc%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e,%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.31.75.99%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-26T11%3a53%3a25.065046-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2fweight-loss.aspx%3ftype%3dc%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+&amp;
+_ga=
+GA1.2.1788905011.1466956427
+&amp;
+ALL_HTTP=
+HTTP_CONNECTION:keep-alive
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip,deflate
+HTTP_ACCEPT_LANGUAGE:pt-BR,en-US;q=0.8
+HTTP_COOKIE:ASP.NET_SessionId=qscr32zzwmnmymlps5kfghmk; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.31.75.99%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-26T11%3a53%3a25.065046-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld+%2f%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.1788905011.1466956427
+HTTP_HOST:doseperfeita.com
+HTTP_REFERER:https://doseperfeita.com/v3/mob/weight-loss.aspx?type=c
+HTTP_USER_AGENT:Mozilla/5.0 (Linux; Android 4.4.4; E2124 Build/24.0.B.5.14) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/82.0.0.23.70;]
+HTTP_X_REQUESTED_WITH:com.facebook.katana
+
+&amp;
+ALL_RAW=
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip,deflate
+Accept-Language: pt-BR,en-US;q=0.8
+Cookie: ASP.NET_SessionId=qscr32zzwmnmymlps5kfghmk; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.31.75.99%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-26T11%3a53%3a25.065046-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld+%2f%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.1788905011.1466956427
+Host: doseperfeita.com
+Referer: https://doseperfeita.com/v3/mob/weight-loss.aspx?type=c
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.4; E2124 Build/24.0.B.5.14) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/82.0.0.23.70;]
+X-Requested-With: com.facebook.katana
+
+&amp;
+APPL_MD_PATH=
+/LM/W3SVC/1/ROOT/v3/mob
+&amp;
+APPL_PHYSICAL_PATH=
+C:\SITES\doseperfeita.com\v3\mob\
+&amp;
+AUTH_TYPE=
+
+&amp;
+AUTH_USER=
+
+&amp;
+AUTH_PASSWORD=
+
+&amp;
+LOGON_USER=
+
+&amp;
+REMOTE_USER=
+
+&amp;
+CERT_COOKIE=
+
+&amp;
+CERT_FLAGS=
+
+&amp;
+CERT_ISSUER=
+
+&amp;
+CERT_KEYSIZE=
+128
+&amp;
+CERT_SECRETKEYSIZE=
+2048
+&amp;
+CERT_SERIALNUMBER=
+
+&amp;
+CERT_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+CERT_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+CERT_SUBJECT=
+
+&amp;
+CONTENT_LENGTH=
+0
+&amp;
+CONTENT_TYPE=
+
+&amp;
+GATEWAY_INTERFACE=
+CGI/1.1
+&amp;
+HTTPS=
+on
+&amp;
+HTTPS_KEYSIZE=
+128
+&amp;
+HTTPS_SECRETKEYSIZE=
+2048
+&amp;
+HTTPS_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+HTTPS_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+INSTANCE_ID=
+1
+&amp;
+INSTANCE_META_PATH=
+/LM/W3SVC/1
+&amp;
+LOCAL_ADDR=
+172.31.42.27
+&amp;
+PATH_INFO=
+/v3/mob/default.aspx
+&amp;
+PATH_TRANSLATED=
+C:\SITES\doseperfeita.com\v3\mob\default.aspx
+&amp;
+QUERY_STRING=
+
+&amp;
+REMOTE_ADDR=
+189.31.75.99
+&amp;
+REMOTE_HOST=
+189.31.75.99
+&amp;
+REMOTE_PORT=
+47153
+&amp;
+REQUEST_METHOD=
+GET
+&amp;
+SCRIPT_NAME=
+/v3/mob/default.aspx
+&amp;
+SERVER_NAME=
+doseperfeita.com
+&amp;
+SERVER_PORT=
+443
+&amp;
+SERVER_PORT_SECURE=
+1
+&amp;
+SERVER_PROTOCOL=
+HTTP/1.1
+&amp;
+SERVER_SOFTWARE=
+Microsoft-IIS/8.0
+&amp;
+URL=
+/v3/mob/default.aspx
+&amp;
+HTTP_CONNECTION=
+keep-alive
+&amp;
+HTTP_ACCEPT=
+text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+&amp;
+HTTP_ACCEPT_ENCODING=
+gzip,deflate
+&amp;
+HTTP_ACCEPT_LANGUAGE=
+pt-BR,en-US;q=0.8
+&amp;
+HTTP_COOKIE=
+ASP.NET_SessionId=qscr32zzwmnmymlps5kfghmk; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.31.75.99%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-26T11%3a53%3a25.065046-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld+%2f%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.1788905011.1466956427
+&amp;
+HTTP_HOST=
+doseperfeita.com
+&amp;
+HTTP_REFERER=
+https://doseperfeita.com/v3/mob/weight-loss.aspx?type=c
+&amp;
+HTTP_USER_AGENT=
+Mozilla/5.0 (Linux; Android 4.4.4; E2124 Build/24.0.B.5.14) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/82.0.0.23.70;]
+&amp;
+HTTP_X_REQUESTED_WITH=
+com.facebook.katana
+&amp;
+</RequestParameters><RequestSession>cache_OrderPageActivity=
+7f22782a-3284-447c-babf-97122744a7d5
+&amp;
+objvisitor=
+&lt;V xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CSRID&gt;0&lt;/CSRID&gt;
+  &lt;pid&gt;100&lt;/pid&gt;
+  &lt;ip&gt;189.31.75.99&lt;/ip&gt;
+  &lt;mid&gt;0&lt;/mid&gt;
+  &lt;det&gt;0001-01-01T00:00:00&lt;/det&gt;
+  &lt;dec&gt;0&lt;/dec&gt;
+  &lt;cntFOA&gt;0&lt;/cntFOA&gt;
+  &lt;vid&gt;0&lt;/vid&gt;
+  &lt;sn /&gt;
+  &lt;s /&gt;
+  &lt;bs /&gt;
+  &lt;co /&gt;
+  &lt;bf /&gt;
+  &lt;bl /&gt;
+  &lt;bla /&gt;
+  &lt;bla1 /&gt;
+  &lt;blc /&gt;
+  &lt;bls&gt;0&lt;/bls&gt;
+  &lt;blz /&gt;
+  &lt;c1&gt;0&lt;/c1&gt;
+  &lt;c2&gt;0&lt;/c2&gt;
+  &lt;c3&gt;0&lt;/c3&gt;
+  &lt;c4&gt;0&lt;/c4&gt;
+  &lt;cID&gt;31164&lt;/cID&gt;
+  &lt;cc&gt;Google-DP_go1m&lt;/cc&gt;
+  &lt;stID&gt;0&lt;/stID&gt;
+  &lt;e1 /&gt;
+  &lt;m1 /&gt;
+  &lt;m2 /&gt;
+  &lt;m3 /&gt;
+  &lt;t&gt;0&lt;/t&gt;
+  &lt;cuid&gt;0&lt;/cuid&gt;
+  &lt;LeadType /&gt;
+  &lt;lvd&gt;2016-06-26T11:53:25.065046-04:00&lt;/lvd&gt;
+  &lt;sls&gt;false&lt;/sls&gt;
+  &lt;ocfld /&gt;
+  &lt;cfld&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Referrer&lt;/FieldName&gt;
+      &lt;FieldValue&gt;https://doseperfeita.com/v3/mob/weight-loss.aspx?type=c&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+  &lt;/cfld&gt;
+  &lt;so /&gt;
+  &lt;iccid&gt;0&lt;/iccid&gt;
+  &lt;f /&gt;
+  &lt;l /&gt;
+  &lt;a1 /&gt;
+  &lt;a2 /&gt;
+  &lt;c /&gt;
+  &lt;si&gt;0&lt;/si&gt;
+  &lt;z /&gt;
+  &lt;ci&gt;0&lt;/ci&gt;
+  &lt;p /&gt;
+  &lt;p2 /&gt;
+  &lt;e /&gt;
+  &lt;RefCustomerID&gt;0&lt;/RefCustomerID&gt;
+  &lt;su&gt;http://doseperfeita.com/v3/mob/&lt;/su&gt;
+&lt;/V&gt;
+&amp;
+siteURL=
+http://doseperfeita.com/v3/mob/
+&amp;
+</RequestSession><Error><TimeStamp>2016-06-26T14:00:27.8051795-04:00</TimeStamp><Message>An unsecured or incorrectly secured fault was received from the other party. See the inner FaultException for the fault code and detail.</Message><StackTrace>
+Server stack trace: 
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.SecurityRequestChannel.ProcessReply(Message reply, SecurityProtocolCorrelationState correlationState, TimeSpan timeout)
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.SecurityRequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.DoOperation(SecuritySessionOperation operation, EndpointAddress target, Uri via, SecurityToken currentToken, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.GetTokenCore(TimeSpan timeout)
+   at System.IdentityModel.Selectors.SecurityTokenProvider.GetToken(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionClientSettings`1.ClientSecuritySessionChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.CallOnceManager.CallOnce(TimeSpan timeout, CallOnceManager cascade)
+   at System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at uCRMLandingPage.wcf.IgatewayService.SetResourcesCulture(String cultureName)
+   at uCRMLandingPage.ServiceImplementation.GatewayService..ctor(HttpContext httpContext, String siteURL)
+   at uCRMLandingPage.ServiceImplementation.GatewayService.NewConnection(String siteURL, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Solvency.GetSolvency(GatewayService&amp; API, Int32 LandingPageID, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Solvency.IsSolvent(GatewayService&amp; API, Int32 LandingPageID, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Templates.GenericTemplate.Render(HtmlTextWriter writer)
+   at System.Web.UI.Control.RenderControlInternal(HtmlTextWriter writer, ControlAdapter adapter)
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</StackTrace></Error></Exception>

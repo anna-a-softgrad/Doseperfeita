@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?><Exception xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Message>Data at the root level is invalid. Line 1, position 926.</Message><Url>https://doseperfeita.com/v3/mob/weight-loss.aspx?type=c</Url><Path>/v3/mob/weight-loss.aspx</Path><IpAddress>186.226.251.110</IpAddress><UserAgent>Mozilla/5.0 (Linux; Android 4.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;]</UserAgent><Date>2016-03-15T15:10:09.9479461-04:00</Date><RequestParameters>type=
+c
+&amp;
+ASP.NET_SessionId=
+g2sr31kzygqacg1mqpe4pxdl
+&amp;
+v=
+%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e186.226.251.110%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eDEFAULT%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e0001-01-01T00%3a00%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fm.facebook.com%2f%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e, ASP.NET_SessionId=g2sr31kzygqacg1mqpe4pxdl,%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e186.226.251.110%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eDEFAULT%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e0001-01-01T00%3a00%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fm.facebook.com%2f%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+&amp;
+ALL_HTTP=
+HTTP_CACHE_CONTROL:no-cache
+HTTP_CONNECTION:Keep-Alive
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip
+HTTP_COOKIE:ASP.NET_SessionId=g2sr31kzygqacg1mqpe4pxdl; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e186.226.251.110%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eDEFAULT%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e0001-01-01T00%3a00%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fm.facebook.com%2f%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e, ASP.NET_SessionId=g2sr31kzygqacg1mqpe4pxdl; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e186.226.251.110%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eDEFAULT%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e0001-01-01T00%3a00%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fm.facebook.com%2f%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+HTTP_HOST:doseperfeita.com
+HTTP_REFERER:http://m.facebook.com/
+HTTP_USER_AGENT:Mozilla/5.0 (Linux; Android 4.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;]
+HTTP_X_PURPOSE:preview
+HTTP_X_FB_NET_HNI:72410
+HTTP_X_FB_SIM_HNI:72431
+HTTP_X_FB_NET_SID:
+HTTP_X_FB_HTTP_ENGINE:Apache
+HTTP_COOKIE2:$Version=1
+
+&amp;
+ALL_RAW=
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip
+Cookie: ASP.NET_SessionId=g2sr31kzygqacg1mqpe4pxdl; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e186.226.251.110%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eDEFAULT%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e0001-01-01T00%3a00%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fm.facebook.com%2f%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e, ASP.NET_SessionId=g2sr31kzygqacg1mqpe4pxdl; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e186.226.251.110%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eDEFAULT%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e0001-01-01T00%3a00%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fm.facebook.com%2f%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+Host: doseperfeita.com
+Referer: http://m.facebook.com/
+User-Agent: Mozilla/5.0 (Linux; Android 4.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;]
+X-Purpose: preview
+x-fb-net-hni: 72410
+x-fb-sim-hni: 72431
+x-fb-net-sid: 
+X-FB-HTTP-Engine: Apache
+Cookie2: $Version=1
+
+&amp;
+APPL_MD_PATH=
+/LM/W3SVC/1/ROOT/v3/mob
+&amp;
+APPL_PHYSICAL_PATH=
+C:\SITES\doseperfeita.com\v3\mob\
+&amp;
+AUTH_TYPE=
+
+&amp;
+AUTH_USER=
+
+&amp;
+AUTH_PASSWORD=
+
+&amp;
+LOGON_USER=
+
+&amp;
+REMOTE_USER=
+
+&amp;
+CERT_COOKIE=
+
+&amp;
+CERT_FLAGS=
+
+&amp;
+CERT_ISSUER=
+
+&amp;
+CERT_KEYSIZE=
+128
+&amp;
+CERT_SECRETKEYSIZE=
+2048
+&amp;
+CERT_SERIALNUMBER=
+
+&amp;
+CERT_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+CERT_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+CERT_SUBJECT=
+
+&amp;
+CONTENT_LENGTH=
+0
+&amp;
+CONTENT_TYPE=
+
+&amp;
+GATEWAY_INTERFACE=
+CGI/1.1
+&amp;
+HTTPS=
+on
+&amp;
+HTTPS_KEYSIZE=
+128
+&amp;
+HTTPS_SECRETKEYSIZE=
+2048
+&amp;
+HTTPS_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+HTTPS_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+INSTANCE_ID=
+1
+&amp;
+INSTANCE_META_PATH=
+/LM/W3SVC/1
+&amp;
+LOCAL_ADDR=
+172.31.42.27
+&amp;
+PATH_INFO=
+/v3/mob/weight-loss.aspx
+&amp;
+PATH_TRANSLATED=
+C:\SITES\doseperfeita.com\v3\mob\weight-loss.aspx
+&amp;
+QUERY_STRING=
+type=c
+&amp;
+REMOTE_ADDR=
+186.226.251.110
+&amp;
+REMOTE_HOST=
+186.226.251.110
+&amp;
+REMOTE_PORT=
+60753
+&amp;
+REQUEST_METHOD=
+GET
+&amp;
+SCRIPT_NAME=
+/v3/mob/weight-loss.aspx
+&amp;
+SERVER_NAME=
+doseperfeita.com
+&amp;
+SERVER_PORT=
+443
+&amp;
+SERVER_PORT_SECURE=
+1
+&amp;
+SERVER_PROTOCOL=
+HTTP/1.1
+&amp;
+SERVER_SOFTWARE=
+Microsoft-IIS/8.0
+&amp;
+URL=
+/v3/mob/weight-loss.aspx
+&amp;
+HTTP_CACHE_CONTROL=
+no-cache
+&amp;
+HTTP_CONNECTION=
+Keep-Alive
+&amp;
+HTTP_ACCEPT=
+text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+&amp;
+HTTP_ACCEPT_ENCODING=
+gzip
+&amp;
+HTTP_COOKIE=
+ASP.NET_SessionId=g2sr31kzygqacg1mqpe4pxdl; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e186.226.251.110%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eDEFAULT%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e0001-01-01T00%3a00%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fm.facebook.com%2f%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e, ASP.NET_SessionId=g2sr31kzygqacg1mqpe4pxdl; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e186.226.251.110%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eDEFAULT%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e0001-01-01T00%3a00%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fm.facebook.com%2f%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+&amp;
+HTTP_HOST=
+doseperfeita.com
+&amp;
+HTTP_REFERER=
+http://m.facebook.com/
+&amp;
+HTTP_USER_AGENT=
+Mozilla/5.0 (Linux; Android 4.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;]
+&amp;
+HTTP_X_PURPOSE=
+preview
+&amp;
+HTTP_X_FB_NET_HNI=
+72410
+&amp;
+HTTP_X_FB_SIM_HNI=
+72431
+&amp;
+HTTP_X_FB_NET_SID=
+
+&amp;
+HTTP_X_FB_HTTP_ENGINE=
+Apache
+&amp;
+HTTP_COOKIE2=
+$Version=1
+&amp;
+</RequestParameters><RequestSession /><Error><TimeStamp>2016-03-15T15:10:09.9479461-04:00</TimeStamp><Message>Data at the root level is invalid. Line 1, position 926.</Message><StackTrace>   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlLoader.LoadDocSequence(XmlDocument parentDoc)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.LoadXml(String xml)
+   at uCRMLandingPage.Templates.GenericTemplate.ReadCookies()</StackTrace></Error></Exception>

@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?><Exception xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Message>SOAP security negotiation with 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' for target 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' failed. See inner exception for more details.</Message><Url>https://doseperfeita.com/v3/mob/preorder.aspx</Url><Path>/v3/mob/preorder.aspx</Path><IpAddress>177.16.118.78</IpAddress><UserAgent>Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36</UserAgent><Date>2016-03-11T15:08:58.4921027-05:00</Date><RequestParameters>ASP.NET_SessionId=
+zz1kpp51ox4o4wsg4lvhv3en
+&amp;
+_gat=
+1
+&amp;
+v=
+%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e177.16.118.78%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e21153%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e32323%3c%2fcID%3e++%3ccc%3eDP-mobile%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-11T15%3a07%3a54.3756616-05%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fpaid.outbrain.com%2fnetwork%2fredir%3fp%3dMpUo7x52vWlS8wBncEg1vUC2UAoV21cy0De5F8bd3Jc9lhOYFDXoOIb96K5ixWHhfXjCR97wXRGTWB4Bxi8hnkriA86BsnAraMt-eLGht--Wxqgm-iPXMGLF-uT_w7uKyB7pdneDRE3XYxLpHZOuuJ4Db6Ux2sv61JodEBn3Ol1_GInzS2DVIP-oiXug_moads-Z6V91UnHaLTQBlsjhl4A53GCGoaK_HlrAONQItuIzEuXH21xI4Rgt5XVyZPj6A_kryQXNV6e2PCmAaNql3VBFv4kq3_75GtWXF3lMn1J0fQTkztBSuzUzvJfRhmTqXqy2Q4Wtjri9nHqhKSb4pT-6c3Kz0t8YYFbHuA1QdTPjSwFnk6JFizWxakq0z9W5Wy9IQ9mhUOC-1ajHCpzMJwiasDZHe0n0Wh6-n0UZF2AMXQ_QNnjxMyYMupnfV2NormjRvMij2DUkmwME4nWiD6ZwIazn-6Rc0wBzJIskrLEtMqeWPrilDQRLotiY3y7Kzdwu_sYPBcu7sXf0y9a88gslszY8p7XO3caFU9YJ4KfImfhy0aj78Sr24mI6ThFsYmMWa7dawCfxhBIKOzW4ovT8GQd7jvZs-GHiJRORSAM%26amp%3bc%3df136499b%26amp%3bv%3d3%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+&amp;
+_ga=
+GA1.2.146822977.1457726455
+&amp;
+ALL_HTTP=
+HTTP_CACHE_CONTROL:max-age=0
+HTTP_CONNECTION:keep-alive
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+HTTP_ACCEPT_ENCODING:gzip, deflate, sdch
+HTTP_ACCEPT_LANGUAGE:pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4
+HTTP_COOKIE:ASP.NET_SessionId=zz1kpp51ox4o4wsg4lvhv3en; _gat=1; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e177.16.118.78%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e21153%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e32323%3c%2fcID%3e++%3ccc%3eDP-mobile%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-11T15%3a07%3a54.3756616-05%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fpaid.outbrain.com%2fnetwork%2fredir%3fp%3dMpUo7x52vWlS8wBncEg1vUC2UAoV21cy0De5F8bd3Jc9lhOYFDXoOIb96K5ixWHhfXjCR97wXRGTWB4Bxi8hnkriA86BsnAraMt-eLGht--Wxqgm-iPXMGLF-uT_w7uKyB7pdneDRE3XYxLpHZOuuJ4Db6Ux2sv61JodEBn3Ol1_GInzS2DVIP-oiXug_moads-Z6V91UnHaLTQBlsjhl4A53GCGoaK_HlrAONQItuIzEuXH21xI4Rgt5XVyZPj6A_kryQXNV6e2PCmAaNql3VBFv4kq3_75GtWXF3lMn1J0fQTkztBSuzUzvJfRhmTqXqy2Q4Wtjri9nHqhKSb4pT-6c3Kz0t8YYFbHuA1QdTPjSwFnk6JFizWxakq0z9W5Wy9IQ9mhUOC-1ajHCpzMJwiasDZHe0n0Wh6-n0UZF2AMXQ_QNnjxMyYMupnfV2NormjRvMij2DUkmwME4nWiD6ZwIazn-6Rc0wBzJIskrLEtMqeWPrilDQRLotiY3y7Kzdwu_sYPBcu7sXf0y9a88gslszY8p7XO3caFU9YJ4KfImfhy0aj78Sr24mI6ThFsYmMWa7dawCfxhBIKOzW4ovT8GQd7jvZs-GHiJRORSAM%26amp%3bc%3df136499b%26amp%3bv%3d3%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.146822977.1457726455
+HTTP_HOST:doseperfeita.com
+HTTP_REFERER:https://doseperfeita.com/v3/mob/weight-loss.aspx?type=i
+HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36
+HTTP_UPGRADE_INSECURE_REQUESTS:1
+
+&amp;
+ALL_RAW=
+Cache-Control: max-age=0
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: ASP.NET_SessionId=zz1kpp51ox4o4wsg4lvhv3en; _gat=1; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e177.16.118.78%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e21153%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e32323%3c%2fcID%3e++%3ccc%3eDP-mobile%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-11T15%3a07%3a54.3756616-05%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fpaid.outbrain.com%2fnetwork%2fredir%3fp%3dMpUo7x52vWlS8wBncEg1vUC2UAoV21cy0De5F8bd3Jc9lhOYFDXoOIb96K5ixWHhfXjCR97wXRGTWB4Bxi8hnkriA86BsnAraMt-eLGht--Wxqgm-iPXMGLF-uT_w7uKyB7pdneDRE3XYxLpHZOuuJ4Db6Ux2sv61JodEBn3Ol1_GInzS2DVIP-oiXug_moads-Z6V91UnHaLTQBlsjhl4A53GCGoaK_HlrAONQItuIzEuXH21xI4Rgt5XVyZPj6A_kryQXNV6e2PCmAaNql3VBFv4kq3_75GtWXF3lMn1J0fQTkztBSuzUzvJfRhmTqXqy2Q4Wtjri9nHqhKSb4pT-6c3Kz0t8YYFbHuA1QdTPjSwFnk6JFizWxakq0z9W5Wy9IQ9mhUOC-1ajHCpzMJwiasDZHe0n0Wh6-n0UZF2AMXQ_QNnjxMyYMupnfV2NormjRvMij2DUkmwME4nWiD6ZwIazn-6Rc0wBzJIskrLEtMqeWPrilDQRLotiY3y7Kzdwu_sYPBcu7sXf0y9a88gslszY8p7XO3caFU9YJ4KfImfhy0aj78Sr24mI6ThFsYmMWa7dawCfxhBIKOzW4ovT8GQd7jvZs-GHiJRORSAM%26amp%3bc%3df136499b%26amp%3bv%3d3%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.146822977.1457726455
+Host: doseperfeita.com
+Referer: https://doseperfeita.com/v3/mob/weight-loss.aspx?type=i
+User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36
+Upgrade-Insecure-Requests: 1
+
+&amp;
+APPL_MD_PATH=
+/LM/W3SVC/1/ROOT/v3/mob
+&amp;
+APPL_PHYSICAL_PATH=
+C:\SITES\doseperfeita.com\v3\mob\
+&amp;
+AUTH_TYPE=
+
+&amp;
+AUTH_USER=
+
+&amp;
+AUTH_PASSWORD=
+
+&amp;
+LOGON_USER=
+
+&amp;
+REMOTE_USER=
+
+&amp;
+CERT_COOKIE=
+
+&amp;
+CERT_FLAGS=
+
+&amp;
+CERT_ISSUER=
+
+&amp;
+CERT_KEYSIZE=
+128
+&amp;
+CERT_SECRETKEYSIZE=
+2048
+&amp;
+CERT_SERIALNUMBER=
+
+&amp;
+CERT_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+CERT_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+CERT_SUBJECT=
+
+&amp;
+CONTENT_LENGTH=
+0
+&amp;
+CONTENT_TYPE=
+
+&amp;
+GATEWAY_INTERFACE=
+CGI/1.1
+&amp;
+HTTPS=
+on
+&amp;
+HTTPS_KEYSIZE=
+128
+&amp;
+HTTPS_SECRETKEYSIZE=
+2048
+&amp;
+HTTPS_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+HTTPS_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+INSTANCE_ID=
+1
+&amp;
+INSTANCE_META_PATH=
+/LM/W3SVC/1
+&amp;
+LOCAL_ADDR=
+172.31.42.27
+&amp;
+PATH_INFO=
+/v3/mob/preorder.aspx
+&amp;
+PATH_TRANSLATED=
+C:\SITES\doseperfeita.com\v3\mob\preorder.aspx
+&amp;
+QUERY_STRING=
+
+&amp;
+REMOTE_ADDR=
+177.16.118.78
+&amp;
+REMOTE_HOST=
+177.16.118.78
+&amp;
+REMOTE_PORT=
+3880
+&amp;
+REQUEST_METHOD=
+GET
+&amp;
+SCRIPT_NAME=
+/v3/mob/preorder.aspx
+&amp;
+SERVER_NAME=
+doseperfeita.com
+&amp;
+SERVER_PORT=
+443
+&amp;
+SERVER_PORT_SECURE=
+1
+&amp;
+SERVER_PROTOCOL=
+HTTP/1.1
+&amp;
+SERVER_SOFTWARE=
+Microsoft-IIS/8.0
+&amp;
+URL=
+/v3/mob/preorder.aspx
+&amp;
+HTTP_CACHE_CONTROL=
+max-age=0
+&amp;
+HTTP_CONNECTION=
+keep-alive
+&amp;
+HTTP_ACCEPT=
+text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+&amp;
+HTTP_ACCEPT_ENCODING=
+gzip, deflate, sdch
+&amp;
+HTTP_ACCEPT_LANGUAGE=
+pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4
+&amp;
+HTTP_COOKIE=
+ASP.NET_SessionId=zz1kpp51ox4o4wsg4lvhv3en; _gat=1; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e177.16.118.78%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e21153%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e32323%3c%2fcID%3e++%3ccc%3eDP-mobile%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-11T15%3a07%3a54.3756616-05%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttp%3a%2f%2fpaid.outbrain.com%2fnetwork%2fredir%3fp%3dMpUo7x52vWlS8wBncEg1vUC2UAoV21cy0De5F8bd3Jc9lhOYFDXoOIb96K5ixWHhfXjCR97wXRGTWB4Bxi8hnkriA86BsnAraMt-eLGht--Wxqgm-iPXMGLF-uT_w7uKyB7pdneDRE3XYxLpHZOuuJ4Db6Ux2sv61JodEBn3Ol1_GInzS2DVIP-oiXug_moads-Z6V91UnHaLTQBlsjhl4A53GCGoaK_HlrAONQItuIzEuXH21xI4Rgt5XVyZPj6A_kryQXNV6e2PCmAaNql3VBFv4kq3_75GtWXF3lMn1J0fQTkztBSuzUzvJfRhmTqXqy2Q4Wtjri9nHqhKSb4pT-6c3Kz0t8YYFbHuA1QdTPjSwFnk6JFizWxakq0z9W5Wy9IQ9mhUOC-1ajHCpzMJwiasDZHe0n0Wh6-n0UZF2AMXQ_QNnjxMyYMupnfV2NormjRvMij2DUkmwME4nWiD6ZwIazn-6Rc0wBzJIskrLEtMqeWPrilDQRLotiY3y7Kzdwu_sYPBcu7sXf0y9a88gslszY8p7XO3caFU9YJ4KfImfhy0aj78Sr24mI6ThFsYmMWa7dawCfxhBIKOzW4ovT8GQd7jvZs-GHiJRORSAM%26amp%3bc%3df136499b%26amp%3bv%3d3%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.146822977.1457726455
+&amp;
+HTTP_HOST=
+doseperfeita.com
+&amp;
+HTTP_REFERER=
+https://doseperfeita.com/v3/mob/weight-loss.aspx?type=i
+&amp;
+HTTP_USER_AGENT=
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36
+&amp;
+HTTP_UPGRADE_INSECURE_REQUESTS=
+1
+&amp;
+</RequestParameters><RequestSession>cache_OrderPageActivity=
+0ea3cd94-e344-4153-9000-c41182e576a4
+&amp;
+objvisitor=
+&lt;V xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CSRID&gt;0&lt;/CSRID&gt;
+  &lt;pid&gt;100&lt;/pid&gt;
+  &lt;ip&gt;177.16.118.78&lt;/ip&gt;
+  &lt;mid&gt;0&lt;/mid&gt;
+  &lt;det&gt;0001-01-01T00:00:00&lt;/det&gt;
+  &lt;dec&gt;0&lt;/dec&gt;
+  &lt;cntFOA&gt;0&lt;/cntFOA&gt;
+  &lt;vid&gt;0&lt;/vid&gt;
+  &lt;sn /&gt;
+  &lt;s /&gt;
+  &lt;bs /&gt;
+  &lt;co /&gt;
+  &lt;bf /&gt;
+  &lt;bl /&gt;
+  &lt;bla /&gt;
+  &lt;bla1 /&gt;
+  &lt;blc /&gt;
+  &lt;bls&gt;0&lt;/bls&gt;
+  &lt;blz /&gt;
+  &lt;c1&gt;0&lt;/c1&gt;
+  &lt;c2&gt;21153&lt;/c2&gt;
+  &lt;c3&gt;0&lt;/c3&gt;
+  &lt;c4&gt;0&lt;/c4&gt;
+  &lt;cID&gt;32323&lt;/cID&gt;
+  &lt;cc&gt;DP-mobile&lt;/cc&gt;
+  &lt;stID&gt;0&lt;/stID&gt;
+  &lt;e1 /&gt;
+  &lt;m1 /&gt;
+  &lt;m2 /&gt;
+  &lt;m3 /&gt;
+  &lt;t&gt;0&lt;/t&gt;
+  &lt;cuid&gt;0&lt;/cuid&gt;
+  &lt;LeadType /&gt;
+  &lt;lvd&gt;2016-03-11T15:08:28.4150823-05:00&lt;/lvd&gt;
+  &lt;sls&gt;false&lt;/sls&gt;
+  &lt;ocfld /&gt;
+  &lt;cfld&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Referrer&lt;/FieldName&gt;
+      &lt;FieldValue&gt;http://paid.outbrain.com/network/redir?p=MpUo7x52vWlS8wBncEg1vUC2UAoV21cy0De5F8bd3Jc9lhOYFDXoOIb96K5ixWHhfXjCR97wXRGTWB4Bxi8hnkriA86BsnAraMt-eLGht--Wxqgm-iPXMGLF-uT_w7uKyB7pdneDRE3XYxLpHZOuuJ4Db6Ux2sv61JodEBn3Ol1_GInzS2DVIP-oiXug_moads-Z6V91UnHaLTQBlsjhl4A53GCGoaK_HlrAONQItuIzEuXH21xI4Rgt5XVyZPj6A_kryQXNV6e2PCmAaNql3VBFv4kq3_75GtWXF3lMn1J0fQTkztBSuzUzvJfRhmTqXqy2Q4Wtjri9nHqhKSb4pT-6c3Kz0t8YYFbHuA1QdTPjSwFnk6JFizWxakq0z9W5Wy9IQ9mhUOC-1ajHCpzMJwiasDZHe0n0Wh6-n0UZF2AMXQ_QNnjxMyYMupnfV2NormjRvMij2DUkmwME4nWiD6ZwIazn-6Rc0wBzJIskrLEtMqeWPrilDQRLotiY3y7Kzdwu_sYPBcu7sXf0y9a88gslszY8p7XO3caFU9YJ4KfImfhy0aj78Sr24mI6ThFsYmMWa7dawCfxhBIKOzW4ovT8GQd7jvZs-GHiJRORSAM&amp;amp;c=f136499b&amp;amp;v=3&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+  &lt;/cfld&gt;
+  &lt;so /&gt;
+  &lt;iccid&gt;0&lt;/iccid&gt;
+  &lt;f /&gt;
+  &lt;l /&gt;
+  &lt;a1 /&gt;
+  &lt;a2 /&gt;
+  &lt;c /&gt;
+  &lt;si&gt;0&lt;/si&gt;
+  &lt;z /&gt;
+  &lt;ci&gt;0&lt;/ci&gt;
+  &lt;p /&gt;
+  &lt;p2 /&gt;
+  &lt;e /&gt;
+  &lt;RefCustomerID&gt;0&lt;/RefCustomerID&gt;
+  &lt;su&gt;http://doseperfeita.com/v3/mob/&lt;/su&gt;
+&lt;/V&gt;
+&amp;
+StartPagePixel21153=
+True
+&amp;
+WLType=
+i
+&amp;
+siteURL=
+http://doseperfeita.com/v3/mob/
+&amp;
+</RequestSession><Error><TimeStamp>2016-03-11T15:08:58.4921027-05:00</TimeStamp><Message>SOAP security negotiation with 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' for target 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' failed. See inner exception for more details.</Message><StackTrace>
+Server stack trace: 
+   at System.ServiceModel.Security.IssuanceTokenProviderBase`1.DoNegotiation(TimeSpan timeout)
+   at System.ServiceModel.Security.SspiNegotiationTokenProvider.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Security.TlsnegoTokenProvider.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Security.SymmetricSecurityProtocol.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.ClientSecurityChannel`1.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.DoOperation(SecuritySessionOperation operation, EndpointAddress target, Uri via, SecurityToken currentToken, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.GetTokenCore(TimeSpan timeout)
+   at System.IdentityModel.Selectors.SecurityTokenProvider.GetToken(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionClientSettings`1.ClientSecuritySessionChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.CallOnceManager.CallOnce(TimeSpan timeout, CallOnceManager cascade)
+   at System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at uCRMLandingPage.wcf.IgatewayService.SetResourcesCulture(String cultureName)
+   at uCRMLandingPage.ServiceImplementation.GatewayService..ctor(HttpContext httpContext, String siteURL)
+   at uCRMLandingPage.ServiceImplementation.GatewayService.NewConnection(String siteURL, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Templates.GenericTemplate.GetStates(Int32 CountryID)
+   at uCRMLandingPage.Templates.GenericTemplate.StartLoad(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</StackTrace></Error></Exception>

@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?><Exception xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Message>SOAP security negotiation with 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' for target 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' failed. See inner exception for more details.</Message><Url>https://doseperfeita.com/v3/mob/order.aspx</Url><Path>/v3/mob/order.aspx</Path><IpAddress>179.215.124.144</IpAddress><UserAgent>Mozilla/5.0 (Linux; U; Android 4.1.2; pt-br; GT-I8552B Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 [FB_IAB/FB4A;FBAV/68.0.0.37.59;]</UserAgent><Date>2016-03-23T10:35:32.2017141-04:00</Date><RequestParameters>__EVENTTARGET=
+btnSubmit
+&amp;
+__EVENTARGUMENT=
+
+&amp;
+__VIEWSTATE=
+/wEPDwULLTE3OTEyOTM4ODgPZBYCZg9kFggCCA8QZBAVDAIwMQIwMgIwMwIwNAIwNQIwNgIwNwIwOAIwOQIxMAIxMQIxMhUMATEBMgEzATQBNQE2ATcBOAE5AjEwAjExAjEyFCsDDGdnZ2dnZ2dnZ2dnZ2RkAgkPEGQQFQsCMTYCMTcCMTgCMTkCMjACMjECMjICMjMCMjQCMjUCMjYVCwQyMDE2BDIwMTcEMjAxOAQyMDE5BDIwMjAEMjAyMQQyMDIyBDIwMjMEMjAyNAQyMDI1BDIwMjYUKwMLZ2dnZ2dnZ2dnZ2dkZAIMDxBkDxYGZgIBAgICAwIEAgUWBhAFAjF4BQExZxAFAjJ4BQEyZxAFAjN4BQEzZxAFAjR4BQE0ZxAFAjV4BQE1ZxAFAjZ4BQE2Z2RkAg4PD2QWAh4HT25DbGljawUhamF2YXNjcmlwdDpkZXA9dHJ1ZTtyZXR1cm4gYWIxKCk7ZGRQvdIyBXD3BnFiI8uhsHm+3niQKJCiIJ671PIXxGCeiA==
+&amp;
+hidSelectedProduct=
+1
+&amp;
+hidPaymentType=
+1
+&amp;
+qtdeMeses=
+pacotelibmax2
+&amp;
+ibge=
+
+&amp;
+addressType=
+
+&amp;
+paymentMethod=
+0
+&amp;
+paymenttype=
+pagseguro
+&amp;
+txtFirstName=
+Andreia
+&amp;
+txtLastName=
+Souza
+&amp;
+txtCardNumber=
+
+&amp;
+ExpirationMonth=
+1
+&amp;
+ExpirationYear=
+2016
+&amp;
+securitycode=
+
+&amp;
+txtCpf=
+375.222.148.82
+&amp;
+Installments=
+1
+&amp;
+__VIEWSTATEGENERATOR=
+FAC89FE6
+&amp;
+__EVENTVALIDATION=
+/wEdACpDeZlqXYbXtakybCT+7ViFzTRac044WHJYOxthnehUypkQ2qFOisdkUkCWLWhU86BwpBT9D5hD7aKyM0bDOnAhhVoPnet00nwH1hzTZGk6Kno7i8xAeojEyYKH5nAFsk1M2vz4PH8f7Z818+HGDJ7H61kF2JGifl3WoTTeijlO8wY+AsYRz4wRmzEfwkUeMpMKaOQytwS1Z91+EB3e0Mrq/0FkatznHPkckjADrEHMs+1da1GAo66t9hBmKROUNGJgHmmDLUebmf00lqKfD95whZEvHnLHce4hHyvqWEHnYXxY6MT+kGVSc+xhyvxxyR9xQ5vqJPJ97FRu6nfw4clVytsOEpMiwJjIgCsJnkZ3S4pVEPUiF96Xm73xKEMScMOLivCnMlZLMgIwerW9DQ8haAVw5uV0gx/rcDf78dmhopXRRdjO1vCmaL7/15kVRyKS9MnIS7v7X9ncwFmQV6S+xmjhnAWJb0DP3yn6orwfvaXzG5pdiTe9i1dzkS0Nqggc4R+Aq2tMmGu+koRJdCItOD1B7FpFZvQlYjVyIZJyC7AlKjMQcT/PtvuaU3EbJ3DQ6nV77cOlo8kEbdUX28O3cHc6kdcImRzjR2dSoCXA5j8eac7hCR8/KzZCAw0sTp4MAK3yod4JuO58nY32SowE/PpumVrdUnOO0fZai3uC7q0tnUtXb7hIOBl3r5xBmqE/WSCIPKEUvkyk4AsoBbQ8KRJB8iZSHOZ+CNg8xdG/K1V6NPCnSxC570BkOZW5U7wx9XE2XSmq/gyCjMBCA4kdEo7AI/Jjj9FVSz6se3VJyRuGN7Hn3UK0mQoJYIaMQqXHvdSCc5hVxJ1Llc8XV8EYRFsIzZ697QoZe4N4ZuDp9zzmltaUM7aEAN+g9cP/m139QFzkDzqCgmHpv+DErwkB9dKcyL95ta9ICIw1s2enGw==
+&amp;
+ASP.NET_SessionId=
+iftv0cuz5dhxlgwjphxqlq2w
+&amp;
+_gat=
+1
+&amp;
+v=
+%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e12625%3c%2fpid%3e++%3cip%3e179.215.124.144%3c%2fip%3e++%3cmid%3e1732%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs%3e45918%3c%2fs%3e++%3cbs+%2f%3e++%3cco%3eBR%3c%2fco%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-23T10%3a16%3a30.1955104-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eNumero%3c%2fFieldName%3e++++++%3cFieldValue%3e431%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eComplemento%3c%2fFieldName%3e++++++%3cFieldValue%3ecasa%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eBairro%3c%2fFieldName%3e++++++%3cFieldValue%3evalongo%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eIBGE%3c%2fFieldName%3e++++++%3cFieldValue+%2f%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eAddressType%3c%2fFieldName%3e++++++%3cFieldValue+%2f%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eCPF%3c%2fFieldName%3e++++++%3cFieldValue%3e375.222.148.82%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf%3eAndreia%3c%2ff%3e++%3cl%3eSouza%3c%2fl%3e++%3ca1%3erua11morro+pacheco%3c%2fa1%3e++%3ca2+%2f%3e++%3cc%3esantos%3c%2fc%3e++%3csi%3e0%3c%2fsi%3e++%3cz%3e11081350%3c%2fz%3e++%3cci%3e0%3c%2fci%3e++%3cp%3e991751172%3c%2fp%3e++%3cp2+%2f%3e++%3ce%3eandreiasouza10011990%40gmail.com%3c%2fe%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+&amp;
+_ga=
+GA1.2.1449808807.1458742463
+&amp;
+ALL_HTTP=
+HTTP_CONNECTION:keep-alive
+HTTP_CONTENT_LENGTH:1902
+HTTP_CONTENT_TYPE:application/x-www-form-urlencoded
+HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+HTTP_ACCEPT_CHARSET:utf-8, iso-8859-1, utf-16, *;q=0.7
+HTTP_ACCEPT_ENCODING:gzip,deflate
+HTTP_ACCEPT_LANGUAGE:pt-BR, en-US
+HTTP_COOKIE:ASP.NET_SessionId=iftv0cuz5dhxlgwjphxqlq2w; _gat=1; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e12625%3c%2fpid%3e++%3cip%3e179.215.124.144%3c%2fip%3e++%3cmid%3e1732%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs%3e45918%3c%2fs%3e++%3cbs+%2f%3e++%3cco%3eBR%3c%2fco%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-23T10%3a16%3a30.1955104-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eNumero%3c%2fFieldName%3e++++++%3cFieldValue%3e431%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eComplemento%3c%2fFieldName%3e++++++%3cFieldValue%3ecasa%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eBairro%3c%2fFieldName%3e++++++%3cFieldValue%3evalongo%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eIBGE%3c%2fFieldName%3e++++++%3cFieldValue+%2f%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eAddressType%3c%2fFieldName%3e++++++%3cFieldValue+%2f%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eCPF%3c%2fFieldName%3e++++++%3cFieldValue%3e375.222.148.82%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf%3eAndreia%3c%2ff%3e++%3cl%3eSouza%3c%2fl%3e++%3ca1%3erua11morro+pacheco%3c%2fa1%3e++%3ca2+%2f%3e++%3cc%3esantos%3c%2fc%3e++%3csi%3e0%3c%2fsi%3e++%3cz%3e11081350%3c%2fz%3e++%3cci%3e0%3c%2fci%3e++%3cp%3e991751172%3c%2fp%3e++%3cp2+%2f%3e++%3ce%3eandreiasouza10011990%40gmail.com%3c%2fe%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.1449808807.1458742463
+HTTP_HOST:doseperfeita.com
+HTTP_REFERER:https://doseperfeita.com/v3/mob/order.aspx
+HTTP_USER_AGENT:Mozilla/5.0 (Linux; U; Android 4.1.2; pt-br; GT-I8552B Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 [FB_IAB/FB4A;FBAV/68.0.0.37.59;]
+HTTP_ORIGIN:https://doseperfeita.com
+HTTP_X_WAP_PROFILE:http://wap.samsungmobile.com/uaprof/GT-I8552B.xml
+
+&amp;
+ALL_RAW=
+Connection: keep-alive
+Content-Length: 1902
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Charset: utf-8, iso-8859-1, utf-16, *;q=0.7
+Accept-Encoding: gzip,deflate
+Accept-Language: pt-BR, en-US
+Cookie: ASP.NET_SessionId=iftv0cuz5dhxlgwjphxqlq2w; _gat=1; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e12625%3c%2fpid%3e++%3cip%3e179.215.124.144%3c%2fip%3e++%3cmid%3e1732%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs%3e45918%3c%2fs%3e++%3cbs+%2f%3e++%3cco%3eBR%3c%2fco%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-23T10%3a16%3a30.1955104-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eNumero%3c%2fFieldName%3e++++++%3cFieldValue%3e431%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eComplemento%3c%2fFieldName%3e++++++%3cFieldValue%3ecasa%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eBairro%3c%2fFieldName%3e++++++%3cFieldValue%3evalongo%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eIBGE%3c%2fFieldName%3e++++++%3cFieldValue+%2f%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eAddressType%3c%2fFieldName%3e++++++%3cFieldValue+%2f%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eCPF%3c%2fFieldName%3e++++++%3cFieldValue%3e375.222.148.82%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf%3eAndreia%3c%2ff%3e++%3cl%3eSouza%3c%2fl%3e++%3ca1%3erua11morro+pacheco%3c%2fa1%3e++%3ca2+%2f%3e++%3cc%3esantos%3c%2fc%3e++%3csi%3e0%3c%2fsi%3e++%3cz%3e11081350%3c%2fz%3e++%3cci%3e0%3c%2fci%3e++%3cp%3e991751172%3c%2fp%3e++%3cp2+%2f%3e++%3ce%3eandreiasouza10011990%40gmail.com%3c%2fe%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.1449808807.1458742463
+Host: doseperfeita.com
+Referer: https://doseperfeita.com/v3/mob/order.aspx
+User-Agent: Mozilla/5.0 (Linux; U; Android 4.1.2; pt-br; GT-I8552B Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 [FB_IAB/FB4A;FBAV/68.0.0.37.59;]
+Origin: https://doseperfeita.com
+x-wap-profile: http://wap.samsungmobile.com/uaprof/GT-I8552B.xml
+
+&amp;
+APPL_MD_PATH=
+/LM/W3SVC/1/ROOT/v3/mob
+&amp;
+APPL_PHYSICAL_PATH=
+C:\SITES\doseperfeita.com\v3\mob\
+&amp;
+AUTH_TYPE=
+
+&amp;
+AUTH_USER=
+
+&amp;
+AUTH_PASSWORD=
+
+&amp;
+LOGON_USER=
+
+&amp;
+REMOTE_USER=
+
+&amp;
+CERT_COOKIE=
+
+&amp;
+CERT_FLAGS=
+
+&amp;
+CERT_ISSUER=
+
+&amp;
+CERT_KEYSIZE=
+128
+&amp;
+CERT_SECRETKEYSIZE=
+2048
+&amp;
+CERT_SERIALNUMBER=
+
+&amp;
+CERT_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+CERT_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+CERT_SUBJECT=
+
+&amp;
+CONTENT_LENGTH=
+1902
+&amp;
+CONTENT_TYPE=
+application/x-www-form-urlencoded
+&amp;
+GATEWAY_INTERFACE=
+CGI/1.1
+&amp;
+HTTPS=
+on
+&amp;
+HTTPS_KEYSIZE=
+128
+&amp;
+HTTPS_SECRETKEYSIZE=
+2048
+&amp;
+HTTPS_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+HTTPS_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+INSTANCE_ID=
+1
+&amp;
+INSTANCE_META_PATH=
+/LM/W3SVC/1
+&amp;
+LOCAL_ADDR=
+172.31.42.27
+&amp;
+PATH_INFO=
+/v3/mob/order.aspx
+&amp;
+PATH_TRANSLATED=
+C:\SITES\doseperfeita.com\v3\mob\order.aspx
+&amp;
+QUERY_STRING=
+
+&amp;
+REMOTE_ADDR=
+179.215.124.144
+&amp;
+REMOTE_HOST=
+179.215.124.144
+&amp;
+REMOTE_PORT=
+15625
+&amp;
+REQUEST_METHOD=
+POST
+&amp;
+SCRIPT_NAME=
+/v3/mob/order.aspx
+&amp;
+SERVER_NAME=
+doseperfeita.com
+&amp;
+SERVER_PORT=
+443
+&amp;
+SERVER_PORT_SECURE=
+1
+&amp;
+SERVER_PROTOCOL=
+HTTP/1.1
+&amp;
+SERVER_SOFTWARE=
+Microsoft-IIS/8.0
+&amp;
+URL=
+/v3/mob/order.aspx
+&amp;
+HTTP_CONNECTION=
+keep-alive
+&amp;
+HTTP_CONTENT_LENGTH=
+1902
+&amp;
+HTTP_CONTENT_TYPE=
+application/x-www-form-urlencoded
+&amp;
+HTTP_ACCEPT=
+text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+&amp;
+HTTP_ACCEPT_CHARSET=
+utf-8, iso-8859-1, utf-16, *;q=0.7
+&amp;
+HTTP_ACCEPT_ENCODING=
+gzip,deflate
+&amp;
+HTTP_ACCEPT_LANGUAGE=
+pt-BR, en-US
+&amp;
+HTTP_COOKIE=
+ASP.NET_SessionId=iftv0cuz5dhxlgwjphxqlq2w; _gat=1; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e12625%3c%2fpid%3e++%3cip%3e179.215.124.144%3c%2fip%3e++%3cmid%3e1732%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs%3e45918%3c%2fs%3e++%3cbs+%2f%3e++%3cco%3eBR%3c%2fco%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-03-23T10%3a16%3a30.1955104-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eNumero%3c%2fFieldName%3e++++++%3cFieldValue%3e431%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eComplemento%3c%2fFieldName%3e++++++%3cFieldValue%3ecasa%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eBairro%3c%2fFieldName%3e++++++%3cFieldValue%3evalongo%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eIBGE%3c%2fFieldName%3e++++++%3cFieldValue+%2f%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eAddressType%3c%2fFieldName%3e++++++%3cFieldValue+%2f%3e++++%3c%2fCustomField%3e++++%3cCustomField%3e++++++%3cFieldName%3eCPF%3c%2fFieldName%3e++++++%3cFieldValue%3e375.222.148.82%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf%3eAndreia%3c%2ff%3e++%3cl%3eSouza%3c%2fl%3e++%3ca1%3erua11morro+pacheco%3c%2fa1%3e++%3ca2+%2f%3e++%3cc%3esantos%3c%2fc%3e++%3csi%3e0%3c%2fsi%3e++%3cz%3e11081350%3c%2fz%3e++%3cci%3e0%3c%2fci%3e++%3cp%3e991751172%3c%2fp%3e++%3cp2+%2f%3e++%3ce%3eandreiasouza10011990%40gmail.com%3c%2fe%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.1449808807.1458742463
+&amp;
+HTTP_HOST=
+doseperfeita.com
+&amp;
+HTTP_REFERER=
+https://doseperfeita.com/v3/mob/order.aspx
+&amp;
+HTTP_USER_AGENT=
+Mozilla/5.0 (Linux; U; Android 4.1.2; pt-br; GT-I8552B Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 [FB_IAB/FB4A;FBAV/68.0.0.37.59;]
+&amp;
+HTTP_ORIGIN=
+https://doseperfeita.com
+&amp;
+HTTP_X_WAP_PROFILE=
+http://wap.samsungmobile.com/uaprof/GT-I8552B.xml
+&amp;
+</RequestParameters><RequestSession>cache_OrderPageActivity=
+ed09bfab-15c7-4e62-be0b-0560bcb79940
+&amp;
+objvisitor=
+&lt;V xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CSRID&gt;0&lt;/CSRID&gt;
+  &lt;pid&gt;12625&lt;/pid&gt;
+  &lt;ip&gt;179.215.124.144&lt;/ip&gt;
+  &lt;mid&gt;1732&lt;/mid&gt;
+  &lt;det&gt;0001-01-01T00:00:00&lt;/det&gt;
+  &lt;dec&gt;0&lt;/dec&gt;
+  &lt;cntFOA&gt;0&lt;/cntFOA&gt;
+  &lt;vid&gt;0&lt;/vid&gt;
+  &lt;sn /&gt;
+  &lt;s&gt;45918&lt;/s&gt;
+  &lt;bs /&gt;
+  &lt;co&gt;BR&lt;/co&gt;
+  &lt;bf /&gt;
+  &lt;bl /&gt;
+  &lt;bla /&gt;
+  &lt;bla1 /&gt;
+  &lt;blc /&gt;
+  &lt;bls&gt;0&lt;/bls&gt;
+  &lt;blz /&gt;
+  &lt;c1&gt;0&lt;/c1&gt;
+  &lt;c2&gt;0&lt;/c2&gt;
+  &lt;c3&gt;0&lt;/c3&gt;
+  &lt;c4&gt;0&lt;/c4&gt;
+  &lt;cID&gt;31164&lt;/cID&gt;
+  &lt;cc&gt;Google-DP_go1m&lt;/cc&gt;
+  &lt;stID&gt;0&lt;/stID&gt;
+  &lt;e1 /&gt;
+  &lt;m1 /&gt;
+  &lt;m2 /&gt;
+  &lt;m3 /&gt;
+  &lt;t&gt;0&lt;/t&gt;
+  &lt;cuid&gt;0&lt;/cuid&gt;
+  &lt;LeadType /&gt;
+  &lt;lvd&gt;2016-03-23T10:16:30.1955104-04:00&lt;/lvd&gt;
+  &lt;sls&gt;false&lt;/sls&gt;
+  &lt;ocfld /&gt;
+  &lt;cfld&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Numero&lt;/FieldName&gt;
+      &lt;FieldValue&gt;431&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Complemento&lt;/FieldName&gt;
+      &lt;FieldValue&gt;casa&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Bairro&lt;/FieldName&gt;
+      &lt;FieldValue&gt;valongo&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;IBGE&lt;/FieldName&gt;
+      &lt;FieldValue /&gt;
+    &lt;/CustomField&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;AddressType&lt;/FieldName&gt;
+      &lt;FieldValue /&gt;
+    &lt;/CustomField&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;CPF&lt;/FieldName&gt;
+      &lt;FieldValue&gt;375.222.148.82&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+  &lt;/cfld&gt;
+  &lt;so /&gt;
+  &lt;iccid&gt;0&lt;/iccid&gt;
+  &lt;f&gt;Andreia&lt;/f&gt;
+  &lt;l&gt;Souza&lt;/l&gt;
+  &lt;a1&gt;rua11morro pacheco&lt;/a1&gt;
+  &lt;a2 /&gt;
+  &lt;c&gt;santos&lt;/c&gt;
+  &lt;si&gt;0&lt;/si&gt;
+  &lt;z&gt;11081350&lt;/z&gt;
+  &lt;ci&gt;0&lt;/ci&gt;
+  &lt;p&gt;991751172&lt;/p&gt;
+  &lt;p2 /&gt;
+  &lt;e&gt;andreiasouza10011990@gmail.com&lt;/e&gt;
+  &lt;RefCustomerID&gt;0&lt;/RefCustomerID&gt;
+  &lt;su&gt;http://doseperfeita.com/v3/mob/&lt;/su&gt;
+&lt;/V&gt;
+&amp;
+StartPagePixel21153=
+True
+&amp;
+WLType=
+c
+&amp;
+OrderPagePixel21153=
+True
+&amp;
+SessionID=
+d108a507-dc6a-498f-8e76-5bbcc15f08a8
+&amp;
+siteURL=
+http://doseperfeita.com/v3/mob/
+&amp;
+packageID=
+1
+&amp;
+PagseguroPackages=
+uCRMLandingPage.PagseguroData
+&amp;
+</RequestSession><Error><TimeStamp>2016-03-23T10:35:32.2017141-04:00</TimeStamp><Message>SOAP security negotiation with 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' for target 'net.tcp://api.safe-pay-online.com/wcf/gatewayservice.svc/gatewayservice.svc' failed. See inner exception for more details.</Message><StackTrace>
+Server stack trace: 
+   at System.ServiceModel.Security.IssuanceTokenProviderBase`1.DoNegotiation(TimeSpan timeout)
+   at System.ServiceModel.Security.SspiNegotiationTokenProvider.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Security.TlsnegoTokenProvider.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Security.SymmetricSecurityProtocol.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.ClientSecurityChannel`1.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.DoOperation(SecuritySessionOperation operation, EndpointAddress target, Uri via, SecurityToken currentToken, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.GetTokenCore(TimeSpan timeout)
+   at System.IdentityModel.Selectors.SecurityTokenProvider.GetToken(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionClientSettings`1.ClientSecuritySessionChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.CallOnceManager.CallOnce(TimeSpan timeout, CallOnceManager cascade)
+   at System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at uCRMLandingPage.wcf.IgatewayService.SetResourcesCulture(String cultureName)
+   at uCRMLandingPage.ServiceImplementation.GatewayService..ctor(HttpContext httpContext, String siteURL)
+   at uCRMLandingPage.ServiceImplementation.GatewayService.NewConnection(String siteURL, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Templates.GenericTemplate.SaveLead(Boolean CreateLeadToken, Boolean DoNotSaveEmptyLeads)</StackTrace></Error></Exception>

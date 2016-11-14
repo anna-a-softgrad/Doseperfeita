@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?><Exception xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Message>An unsecured or incorrectly secured fault was received from the other party. See the inner FaultException for the fault code and detail.</Message><Url>https://doseperfeita.com/v3/mob/preorder.aspx</Url><Path>/v3/mob/preorder.aspx</Path><IpAddress>189.115.173.10</IpAddress><UserAgent>Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630 Dual SIM) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537</UserAgent><Date>2016-06-25T12:31:59.2938584-04:00</Date><RequestParameters>ASP.NET_SessionId=
+bx4h1pyqj3pjgieab4rwvf3i
+&amp;
+v=
+%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.115.173.10%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-25T12%3a22%3a53.0177136-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fgoogleads.g.doubleclick.net%2fpagead%2fads%3fclient%3dca-pub-3457546905907912%26amp%3bformat%3d300x250%26amp%3boutput%3dhtml%26amp%3bh%3d250%26amp%3bslotname%3d7415863832%26amp%3badk%3d2540740668%26amp%3bw%3d300%26amp%3blmt%3d1466871753%26amp%3bavail_w%3d300%26amp%3bea%3d0%26amp%3bflash%3d0%26amp%3burl%3dhttp%3a%2f%2fwww.donagiraffa.com%2f2013%2f04%2fcomo-perder-10kg.html%26amp%3bwgl%3d1%26amp%3bdt%3d1466871752057%26amp%3bbpp%3d20%26amp%3bbdt%3d3272%26amp%3bfdt%3d1480%26amp%3bidt%3d1628%26amp%3bshv%3dr20160617%26amp%3bcbv%3dr20151006%26amp%3bsaldr%3daa%26amp%3bprev_fmts%3d320x100%26amp%3bcorrelator%3d7931059694409%26amp%3bfrm%3d20%26amp%3bga_vid%3d882264834.1466871751%26amp%3bga_sid%3d1466871751%26amp%3bga_hid%3d321706515%26amp%3bga_fc%3d1%26amp%3bpv%3d1%26amp%3bicsg%3d2%26amp%3bnhd%3d1%26amp%3bdssz%3d2%26amp%3bmdo%3d0%26amp%3bmso%3d0%26amp%3bu_tz%3d-180%26amp%3bu_his%3d9%26amp%3bu_java%3d1%26amp%3bu_h%3d595%26amp%3bu_w%3d357%26amp%3bu_ah%3d595%26amp%3bu_aw%3d357%26amp%3bu_cd%3d24%26amp%3bu_nplug%3d0%26amp%3bu_nmime%3d0%26amp%3bdff%3darial%26amp%3bdfs%3d18%26amp%3badx%3d10%26amp%3bady%3d1210%26amp%3bbiw%3d320%26amp%3bbih%3d486%26amp%3beid%3d10573696%2c20040015%2c575144605%2c20040036%26amp%3boid%3d3%26amp%3bref%3dhttp%3a%2f%2fwww.google.com.br%2fsearch%3fq%3dcomo%2bperder%2b10%2bquilos%2bem%2b30%2bdias%26amp%3boq%3dcomo%2bperder%2b10%2bquilos%2bem%2b30%2bdias%26amp%3bgs_l%3dmobile-heirloom-serp.12...5141.21547.0.22583.35.30.1.4.4.1.668.8412.7j5j4j4j7j3.30.0....0...1c.1.34.mobile-heirloom-serp..24.11.2342.6--5PYjz5wU%26amp%3brx%3d0%26amp%3beae%3d4%26amp%3bfc%3d250%26amp%3bpc%3d1%26amp%3bdocm%3d11%26amp%3bbrdim%3d0%2c0%2c0%2c0%2c357%2c%2c357%2c542%2c320%2c485%26amp%3bvis%3d1%26amp%3brsz%3d%7c%7co%7c%26amp%3babl%3dCS%26amp%3bppjl%3du1%26amp%3bpfx%3d0%26amp%3bfu%3d16%26amp%3bbc%3d1%26amp%3bifi%3d2%26amp%3bdtd%3d1796%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e
+&amp;
+_ga=
+GA1.2.2143356518.1466871815
+&amp;
+_gat=
+1
+&amp;
+ALL_HTTP=
+HTTP_CACHE_CONTROL:no-cache
+HTTP_CONNECTION:Keep-Alive
+HTTP_ACCEPT:text/html, application/xhtml+xml, */*
+HTTP_ACCEPT_ENCODING:gzip, deflate
+HTTP_ACCEPT_LANGUAGE:pt-BR,pt;q=0.5
+HTTP_COOKIE:ASP.NET_SessionId=bx4h1pyqj3pjgieab4rwvf3i; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.115.173.10%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-25T12%3a22%3a53.0177136-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fgoogleads.g.doubleclick.net%2fpagead%2fads%3fclient%3dca-pub-3457546905907912%26amp%3bformat%3d300x250%26amp%3boutput%3dhtml%26amp%3bh%3d250%26amp%3bslotname%3d7415863832%26amp%3badk%3d2540740668%26amp%3bw%3d300%26amp%3blmt%3d1466871753%26amp%3bavail_w%3d300%26amp%3bea%3d0%26amp%3bflash%3d0%26amp%3burl%3dhttp%3a%2f%2fwww.donagiraffa.com%2f2013%2f04%2fcomo-perder-10kg.html%26amp%3bwgl%3d1%26amp%3bdt%3d1466871752057%26amp%3bbpp%3d20%26amp%3bbdt%3d3272%26amp%3bfdt%3d1480%26amp%3bidt%3d1628%26amp%3bshv%3dr20160617%26amp%3bcbv%3dr20151006%26amp%3bsaldr%3daa%26amp%3bprev_fmts%3d320x100%26amp%3bcorrelator%3d7931059694409%26amp%3bfrm%3d20%26amp%3bga_vid%3d882264834.1466871751%26amp%3bga_sid%3d1466871751%26amp%3bga_hid%3d321706515%26amp%3bga_fc%3d1%26amp%3bpv%3d1%26amp%3bicsg%3d2%26amp%3bnhd%3d1%26amp%3bdssz%3d2%26amp%3bmdo%3d0%26amp%3bmso%3d0%26amp%3bu_tz%3d-180%26amp%3bu_his%3d9%26amp%3bu_java%3d1%26amp%3bu_h%3d595%26amp%3bu_w%3d357%26amp%3bu_ah%3d595%26amp%3bu_aw%3d357%26amp%3bu_cd%3d24%26amp%3bu_nplug%3d0%26amp%3bu_nmime%3d0%26amp%3bdff%3darial%26amp%3bdfs%3d18%26amp%3badx%3d10%26amp%3bady%3d1210%26amp%3bbiw%3d320%26amp%3bbih%3d486%26amp%3beid%3d10573696%2c20040015%2c575144605%2c20040036%26amp%3boid%3d3%26amp%3bref%3dhttp%3a%2f%2fwww.google.com.br%2fsearch%3fq%3dcomo%2bperder%2b10%2bquilos%2bem%2b30%2bdias%26amp%3boq%3dcomo%2bperder%2b10%2bquilos%2bem%2b30%2bdias%26amp%3bgs_l%3dmobile-heirloom-serp.12...5141.21547.0.22583.35.30.1.4.4.1.668.8412.7j5j4j4j7j3.30.0....0...1c.1.34.mobile-heirloom-serp..24.11.2342.6--5PYjz5wU%26amp%3brx%3d0%26amp%3beae%3d4%26amp%3bfc%3d250%26amp%3bpc%3d1%26amp%3bdocm%3d11%26amp%3bbrdim%3d0%2c0%2c0%2c0%2c357%2c%2c357%2c542%2c320%2c485%26amp%3bvis%3d1%26amp%3brsz%3d%7c%7co%7c%26amp%3babl%3dCS%26amp%3bppjl%3du1%26amp%3bpfx%3d0%26amp%3bfu%3d16%26amp%3bbc%3d1%26amp%3bifi%3d2%26amp%3bdtd%3d1796%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.2143356518.1466871815; _gat=1
+HTTP_HOST:doseperfeita.com
+HTTP_REFERER:https://doseperfeita.com/v3/mob/weight-loss.aspx?type=c
+HTTP_USER_AGENT:Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630 Dual SIM) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537
+HTTP_UA_CPU:ARM
+
+&amp;
+ALL_RAW=
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gzip, deflate
+Accept-Language: pt-BR,pt;q=0.5
+Cookie: ASP.NET_SessionId=bx4h1pyqj3pjgieab4rwvf3i; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.115.173.10%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-25T12%3a22%3a53.0177136-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fgoogleads.g.doubleclick.net%2fpagead%2fads%3fclient%3dca-pub-3457546905907912%26amp%3bformat%3d300x250%26amp%3boutput%3dhtml%26amp%3bh%3d250%26amp%3bslotname%3d7415863832%26amp%3badk%3d2540740668%26amp%3bw%3d300%26amp%3blmt%3d1466871753%26amp%3bavail_w%3d300%26amp%3bea%3d0%26amp%3bflash%3d0%26amp%3burl%3dhttp%3a%2f%2fwww.donagiraffa.com%2f2013%2f04%2fcomo-perder-10kg.html%26amp%3bwgl%3d1%26amp%3bdt%3d1466871752057%26amp%3bbpp%3d20%26amp%3bbdt%3d3272%26amp%3bfdt%3d1480%26amp%3bidt%3d1628%26amp%3bshv%3dr20160617%26amp%3bcbv%3dr20151006%26amp%3bsaldr%3daa%26amp%3bprev_fmts%3d320x100%26amp%3bcorrelator%3d7931059694409%26amp%3bfrm%3d20%26amp%3bga_vid%3d882264834.1466871751%26amp%3bga_sid%3d1466871751%26amp%3bga_hid%3d321706515%26amp%3bga_fc%3d1%26amp%3bpv%3d1%26amp%3bicsg%3d2%26amp%3bnhd%3d1%26amp%3bdssz%3d2%26amp%3bmdo%3d0%26amp%3bmso%3d0%26amp%3bu_tz%3d-180%26amp%3bu_his%3d9%26amp%3bu_java%3d1%26amp%3bu_h%3d595%26amp%3bu_w%3d357%26amp%3bu_ah%3d595%26amp%3bu_aw%3d357%26amp%3bu_cd%3d24%26amp%3bu_nplug%3d0%26amp%3bu_nmime%3d0%26amp%3bdff%3darial%26amp%3bdfs%3d18%26amp%3badx%3d10%26amp%3bady%3d1210%26amp%3bbiw%3d320%26amp%3bbih%3d486%26amp%3beid%3d10573696%2c20040015%2c575144605%2c20040036%26amp%3boid%3d3%26amp%3bref%3dhttp%3a%2f%2fwww.google.com.br%2fsearch%3fq%3dcomo%2bperder%2b10%2bquilos%2bem%2b30%2bdias%26amp%3boq%3dcomo%2bperder%2b10%2bquilos%2bem%2b30%2bdias%26amp%3bgs_l%3dmobile-heirloom-serp.12...5141.21547.0.22583.35.30.1.4.4.1.668.8412.7j5j4j4j7j3.30.0....0...1c.1.34.mobile-heirloom-serp..24.11.2342.6--5PYjz5wU%26amp%3brx%3d0%26amp%3beae%3d4%26amp%3bfc%3d250%26amp%3bpc%3d1%26amp%3bdocm%3d11%26amp%3bbrdim%3d0%2c0%2c0%2c0%2c357%2c%2c357%2c542%2c320%2c485%26amp%3bvis%3d1%26amp%3brsz%3d%7c%7co%7c%26amp%3babl%3dCS%26amp%3bppjl%3du1%26amp%3bpfx%3d0%26amp%3bfu%3d16%26amp%3bbc%3d1%26amp%3bifi%3d2%26amp%3bdtd%3d1796%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.2143356518.1466871815; _gat=1
+Host: doseperfeita.com
+Referer: https://doseperfeita.com/v3/mob/weight-loss.aspx?type=c
+User-Agent: Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630 Dual SIM) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537
+UA-CPU: ARM
+
+&amp;
+APPL_MD_PATH=
+/LM/W3SVC/1/ROOT/v3/mob
+&amp;
+APPL_PHYSICAL_PATH=
+C:\SITES\doseperfeita.com\v3\mob\
+&amp;
+AUTH_TYPE=
+
+&amp;
+AUTH_USER=
+
+&amp;
+AUTH_PASSWORD=
+
+&amp;
+LOGON_USER=
+
+&amp;
+REMOTE_USER=
+
+&amp;
+CERT_COOKIE=
+
+&amp;
+CERT_FLAGS=
+
+&amp;
+CERT_ISSUER=
+
+&amp;
+CERT_KEYSIZE=
+128
+&amp;
+CERT_SECRETKEYSIZE=
+2048
+&amp;
+CERT_SERIALNUMBER=
+
+&amp;
+CERT_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+CERT_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+CERT_SUBJECT=
+
+&amp;
+CONTENT_LENGTH=
+0
+&amp;
+CONTENT_TYPE=
+
+&amp;
+GATEWAY_INTERFACE=
+CGI/1.1
+&amp;
+HTTPS=
+on
+&amp;
+HTTPS_KEYSIZE=
+128
+&amp;
+HTTPS_SECRETKEYSIZE=
+2048
+&amp;
+HTTPS_SERVER_ISSUER=
+C=GB, S=Greater Manchester, L=Salford, O=COMODO CA Limited, CN=COMODO RSA Domain Validation Secure Server CA
+&amp;
+HTTPS_SERVER_SUBJECT=
+OU=Domain Control Validated, OU=PositiveSSL, CN=doseperfeita.com
+&amp;
+INSTANCE_ID=
+1
+&amp;
+INSTANCE_META_PATH=
+/LM/W3SVC/1
+&amp;
+LOCAL_ADDR=
+172.31.42.27
+&amp;
+PATH_INFO=
+/v3/mob/preorder.aspx
+&amp;
+PATH_TRANSLATED=
+C:\SITES\doseperfeita.com\v3\mob\preorder.aspx
+&amp;
+QUERY_STRING=
+
+&amp;
+REMOTE_ADDR=
+189.115.173.10
+&amp;
+REMOTE_HOST=
+189.115.173.10
+&amp;
+REMOTE_PORT=
+50793
+&amp;
+REQUEST_METHOD=
+GET
+&amp;
+SCRIPT_NAME=
+/v3/mob/preorder.aspx
+&amp;
+SERVER_NAME=
+doseperfeita.com
+&amp;
+SERVER_PORT=
+443
+&amp;
+SERVER_PORT_SECURE=
+1
+&amp;
+SERVER_PROTOCOL=
+HTTP/1.1
+&amp;
+SERVER_SOFTWARE=
+Microsoft-IIS/8.0
+&amp;
+URL=
+/v3/mob/preorder.aspx
+&amp;
+HTTP_CACHE_CONTROL=
+no-cache
+&amp;
+HTTP_CONNECTION=
+Keep-Alive
+&amp;
+HTTP_ACCEPT=
+text/html, application/xhtml+xml, */*
+&amp;
+HTTP_ACCEPT_ENCODING=
+gzip, deflate
+&amp;
+HTTP_ACCEPT_LANGUAGE=
+pt-BR,pt;q=0.5
+&amp;
+HTTP_COOKIE=
+ASP.NET_SessionId=bx4h1pyqj3pjgieab4rwvf3i; v=%3cV+xmlns%3axsd%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema%22+xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%3e++%3cCSRID%3e0%3c%2fCSRID%3e++%3cpid%3e100%3c%2fpid%3e++%3cip%3e189.115.173.10%3c%2fip%3e++%3cmid%3e0%3c%2fmid%3e++%3cdet%3e0001-01-01T00%3a00%3a00%3c%2fdet%3e++%3cdec%3e0%3c%2fdec%3e++%3ccntFOA%3e0%3c%2fcntFOA%3e++%3cvid%3e0%3c%2fvid%3e++%3csn+%2f%3e++%3cs+%2f%3e++%3cbs+%2f%3e++%3cco+%2f%3e++%3cbf+%2f%3e++%3cbl+%2f%3e++%3cbla+%2f%3e++%3cbla1+%2f%3e++%3cblc+%2f%3e++%3cbls%3e0%3c%2fbls%3e++%3cblz+%2f%3e++%3cc1%3e0%3c%2fc1%3e++%3cc2%3e0%3c%2fc2%3e++%3cc3%3e0%3c%2fc3%3e++%3cc4%3e0%3c%2fc4%3e++%3ccID%3e31164%3c%2fcID%3e++%3ccc%3eGoogle-DP_go1m%3c%2fcc%3e++%3cstID%3e0%3c%2fstID%3e++%3ce1+%2f%3e++%3cm1+%2f%3e++%3cm2+%2f%3e++%3cm3+%2f%3e++%3ct%3e0%3c%2ft%3e++%3ccuid%3e0%3c%2fcuid%3e++%3cLeadType+%2f%3e++%3clvd%3e2016-06-25T12%3a22%3a53.0177136-04%3a00%3c%2flvd%3e++%3csls%3efalse%3c%2fsls%3e++%3cocfld+%2f%3e++%3ccfld%3e++++%3cCustomField%3e++++++%3cFieldName%3eReferrer%3c%2fFieldName%3e++++++%3cFieldValue%3ehttps%3a%2f%2fgoogleads.g.doubleclick.net%2fpagead%2fads%3fclient%3dca-pub-3457546905907912%26amp%3bformat%3d300x250%26amp%3boutput%3dhtml%26amp%3bh%3d250%26amp%3bslotname%3d7415863832%26amp%3badk%3d2540740668%26amp%3bw%3d300%26amp%3blmt%3d1466871753%26amp%3bavail_w%3d300%26amp%3bea%3d0%26amp%3bflash%3d0%26amp%3burl%3dhttp%3a%2f%2fwww.donagiraffa.com%2f2013%2f04%2fcomo-perder-10kg.html%26amp%3bwgl%3d1%26amp%3bdt%3d1466871752057%26amp%3bbpp%3d20%26amp%3bbdt%3d3272%26amp%3bfdt%3d1480%26amp%3bidt%3d1628%26amp%3bshv%3dr20160617%26amp%3bcbv%3dr20151006%26amp%3bsaldr%3daa%26amp%3bprev_fmts%3d320x100%26amp%3bcorrelator%3d7931059694409%26amp%3bfrm%3d20%26amp%3bga_vid%3d882264834.1466871751%26amp%3bga_sid%3d1466871751%26amp%3bga_hid%3d321706515%26amp%3bga_fc%3d1%26amp%3bpv%3d1%26amp%3bicsg%3d2%26amp%3bnhd%3d1%26amp%3bdssz%3d2%26amp%3bmdo%3d0%26amp%3bmso%3d0%26amp%3bu_tz%3d-180%26amp%3bu_his%3d9%26amp%3bu_java%3d1%26amp%3bu_h%3d595%26amp%3bu_w%3d357%26amp%3bu_ah%3d595%26amp%3bu_aw%3d357%26amp%3bu_cd%3d24%26amp%3bu_nplug%3d0%26amp%3bu_nmime%3d0%26amp%3bdff%3darial%26amp%3bdfs%3d18%26amp%3badx%3d10%26amp%3bady%3d1210%26amp%3bbiw%3d320%26amp%3bbih%3d486%26amp%3beid%3d10573696%2c20040015%2c575144605%2c20040036%26amp%3boid%3d3%26amp%3bref%3dhttp%3a%2f%2fwww.google.com.br%2fsearch%3fq%3dcomo%2bperder%2b10%2bquilos%2bem%2b30%2bdias%26amp%3boq%3dcomo%2bperder%2b10%2bquilos%2bem%2b30%2bdias%26amp%3bgs_l%3dmobile-heirloom-serp.12...5141.21547.0.22583.35.30.1.4.4.1.668.8412.7j5j4j4j7j3.30.0....0...1c.1.34.mobile-heirloom-serp..24.11.2342.6--5PYjz5wU%26amp%3brx%3d0%26amp%3beae%3d4%26amp%3bfc%3d250%26amp%3bpc%3d1%26amp%3bdocm%3d11%26amp%3bbrdim%3d0%2c0%2c0%2c0%2c357%2c%2c357%2c542%2c320%2c485%26amp%3bvis%3d1%26amp%3brsz%3d%7c%7co%7c%26amp%3babl%3dCS%26amp%3bppjl%3du1%26amp%3bpfx%3d0%26amp%3bfu%3d16%26amp%3bbc%3d1%26amp%3bifi%3d2%26amp%3bdtd%3d1796%3c%2fFieldValue%3e++++%3c%2fCustomField%3e++%3c%2fcfld%3e++%3cso+%2f%3e++%3ciccid%3e0%3c%2ficcid%3e++%3cf+%2f%3e++%3cl+%2f%3e++%3ca1+%2f%3e++%3ca2+%2f%3e++%3cc+%2f%3e++%3csi%3e0%3c%2fsi%3e++%3cz+%2f%3e++%3cci%3e0%3c%2fci%3e++%3cp+%2f%3e++%3cp2+%2f%3e++%3ce+%2f%3e++%3cRefCustomerID%3e0%3c%2fRefCustomerID%3e++%3csu%3ehttp%3a%2f%2fdoseperfeita.com%2fv3%2fmob%2f%3c%2fsu%3e%3c%2fV%3e; _ga=GA1.2.2143356518.1466871815; _gat=1
+&amp;
+HTTP_HOST=
+doseperfeita.com
+&amp;
+HTTP_REFERER=
+https://doseperfeita.com/v3/mob/weight-loss.aspx?type=c
+&amp;
+HTTP_USER_AGENT=
+Mozilla/5.0 (Mobile; Windows Phone 8.1; Android 4.0; ARM; Trident/7.0; Touch; rv:11.0; IEMobile/11.0; NOKIA; Lumia 630 Dual SIM) like iPhone OS 7_0_3 Mac OS X AppleWebKit/537 (KHTML, like Gecko) Mobile Safari/537
+&amp;
+HTTP_UA_CPU=
+ARM
+&amp;
+</RequestParameters><RequestSession>cache_OrderPageActivity=
+59c80a80-32dc-4ba6-b4a4-8f612790e7fb
+&amp;
+objvisitor=
+&lt;V xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CSRID&gt;0&lt;/CSRID&gt;
+  &lt;pid&gt;100&lt;/pid&gt;
+  &lt;ip&gt;189.115.173.10&lt;/ip&gt;
+  &lt;mid&gt;0&lt;/mid&gt;
+  &lt;det&gt;0001-01-01T00:00:00&lt;/det&gt;
+  &lt;dec&gt;0&lt;/dec&gt;
+  &lt;cntFOA&gt;0&lt;/cntFOA&gt;
+  &lt;vid&gt;0&lt;/vid&gt;
+  &lt;sn /&gt;
+  &lt;s /&gt;
+  &lt;bs /&gt;
+  &lt;co /&gt;
+  &lt;bf /&gt;
+  &lt;bl /&gt;
+  &lt;bla /&gt;
+  &lt;bla1 /&gt;
+  &lt;blc /&gt;
+  &lt;bls&gt;0&lt;/bls&gt;
+  &lt;blz /&gt;
+  &lt;c1&gt;0&lt;/c1&gt;
+  &lt;c2&gt;0&lt;/c2&gt;
+  &lt;c3&gt;0&lt;/c3&gt;
+  &lt;c4&gt;0&lt;/c4&gt;
+  &lt;cID&gt;31164&lt;/cID&gt;
+  &lt;cc&gt;Google-DP_go1m&lt;/cc&gt;
+  &lt;stID&gt;0&lt;/stID&gt;
+  &lt;e1 /&gt;
+  &lt;m1 /&gt;
+  &lt;m2 /&gt;
+  &lt;m3 /&gt;
+  &lt;t&gt;0&lt;/t&gt;
+  &lt;cuid&gt;0&lt;/cuid&gt;
+  &lt;LeadType /&gt;
+  &lt;lvd&gt;2016-06-25T12:24:35.9017727-04:00&lt;/lvd&gt;
+  &lt;sls&gt;false&lt;/sls&gt;
+  &lt;ocfld /&gt;
+  &lt;cfld&gt;
+    &lt;CustomField&gt;
+      &lt;FieldName&gt;Referrer&lt;/FieldName&gt;
+      &lt;FieldValue&gt;https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3457546905907912&amp;amp;format=300x250&amp;amp;output=html&amp;amp;h=250&amp;amp;slotname=7415863832&amp;amp;adk=2540740668&amp;amp;w=300&amp;amp;lmt=1466871753&amp;amp;avail_w=300&amp;amp;ea=0&amp;amp;flash=0&amp;amp;url=http://www.donagiraffa.com/2013/04/como-perder-10kg.html&amp;amp;wgl=1&amp;amp;dt=1466871752057&amp;amp;bpp=20&amp;amp;bdt=3272&amp;amp;fdt=1480&amp;amp;idt=1628&amp;amp;shv=r20160617&amp;amp;cbv=r20151006&amp;amp;saldr=aa&amp;amp;prev_fmts=320x100&amp;amp;correlator=7931059694409&amp;amp;frm=20&amp;amp;ga_vid=882264834.1466871751&amp;amp;ga_sid=1466871751&amp;amp;ga_hid=321706515&amp;amp;ga_fc=1&amp;amp;pv=1&amp;amp;icsg=2&amp;amp;nhd=1&amp;amp;dssz=2&amp;amp;mdo=0&amp;amp;mso=0&amp;amp;u_tz=-180&amp;amp;u_his=9&amp;amp;u_java=1&amp;amp;u_h=595&amp;amp;u_w=357&amp;amp;u_ah=595&amp;amp;u_aw=357&amp;amp;u_cd=24&amp;amp;u_nplug=0&amp;amp;u_nmime=0&amp;amp;dff=arial&amp;amp;dfs=18&amp;amp;adx=10&amp;amp;ady=1210&amp;amp;biw=320&amp;amp;bih=486&amp;amp;eid=10573696,20040015,575144605,20040036&amp;amp;oid=3&amp;amp;ref=http://www.google.com.br/search?q=como+perder+10+quilos+em+30+dias&amp;amp;oq=como+perder+10+quilos+em+30+dias&amp;amp;gs_l=mobile-heirloom-serp.12...5141.21547.0.22583.35.30.1.4.4.1.668.8412.7j5j4j4j7j3.30.0....0...1c.1.34.mobile-heirloom-serp..24.11.2342.6--5PYjz5wU&amp;amp;rx=0&amp;amp;eae=4&amp;amp;fc=250&amp;amp;pc=1&amp;amp;docm=11&amp;amp;brdim=0,0,0,0,357,,357,542,320,485&amp;amp;vis=1&amp;amp;rsz=||o|&amp;amp;abl=CS&amp;amp;ppjl=u1&amp;amp;pfx=0&amp;amp;fu=16&amp;amp;bc=1&amp;amp;ifi=2&amp;amp;dtd=1796&lt;/FieldValue&gt;
+    &lt;/CustomField&gt;
+  &lt;/cfld&gt;
+  &lt;so /&gt;
+  &lt;iccid&gt;0&lt;/iccid&gt;
+  &lt;f /&gt;
+  &lt;l /&gt;
+  &lt;a1 /&gt;
+  &lt;a2 /&gt;
+  &lt;c /&gt;
+  &lt;si&gt;0&lt;/si&gt;
+  &lt;z /&gt;
+  &lt;ci&gt;0&lt;/ci&gt;
+  &lt;p /&gt;
+  &lt;p2 /&gt;
+  &lt;e /&gt;
+  &lt;RefCustomerID&gt;0&lt;/RefCustomerID&gt;
+  &lt;su&gt;http://doseperfeita.com/v3/mob/&lt;/su&gt;
+&lt;/V&gt;
+&amp;
+StartPagePixel21153=
+True
+&amp;
+WLType=
+c
+&amp;
+siteURL=
+http://doseperfeita.com/v3/mob/
+&amp;
+</RequestSession><Error><TimeStamp>2016-06-25T12:31:59.2938584-04:00</TimeStamp><Message>An unsecured or incorrectly secured fault was received from the other party. See the inner FaultException for the fault code and detail.</Message><StackTrace>
+Server stack trace: 
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.SecurityRequestChannel.ProcessReply(Message reply, SecurityProtocolCorrelationState correlationState, TimeSpan timeout)
+   at System.ServiceModel.Channels.SecurityChannelFactory`1.SecurityRequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.DoOperation(SecuritySessionOperation operation, EndpointAddress target, Uri via, SecurityToken currentToken, TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionSecurityTokenProvider.GetTokenCore(TimeSpan timeout)
+   at System.IdentityModel.Selectors.SecurityTokenProvider.GetToken(TimeSpan timeout)
+   at System.ServiceModel.Security.SecuritySessionClientSettings`1.ClientSecuritySessionChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.OnOpen(TimeSpan timeout)
+   at System.ServiceModel.Channels.CommunicationObject.Open(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.CallOnceManager.CallOnce(TimeSpan timeout, CallOnceManager cascade)
+   at System.ServiceModel.Channels.ServiceChannel.EnsureOpened(TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData&amp; msgData, Int32 type)
+   at uCRMLandingPage.wcf.IgatewayService.SetResourcesCulture(String cultureName)
+   at uCRMLandingPage.ServiceImplementation.GatewayService..ctor(HttpContext httpContext, String siteURL)
+   at uCRMLandingPage.ServiceImplementation.GatewayService.NewConnection(String siteURL, Visitor&amp; objVisitor)
+   at uCRMLandingPage.Templates.GenericTemplate.GetStates(Int32 CountryID)
+   at uCRMLandingPage.Templates.GenericTemplate.StartLoad(Object sender, EventArgs e)
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at System.Web.UI.Control.LoadRecursive()
+   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)</StackTrace></Error></Exception>
